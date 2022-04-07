@@ -4,6 +4,11 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 import streamlit as st
+import warnings
+
+# workaround to suppress warnings from plotly and pandas
+# FIXME: fix the issues and remove this workaround
+warnings.filterwarnings("ignore")
 
 pio.templates.default = "simple_white"
 st.set_page_config(page_title="HR Dashboard",
@@ -15,9 +20,7 @@ st.set_page_config(page_title="HR Dashboard",
 # ---- READ FILE ----
 @st.cache
 def read_file(file_name):
-    data = pd.read_csv(file_name)
-    return data
-
+    return pd.read_csv(file_name)
 
 df = read_file('data/hr_data.csv')
 
