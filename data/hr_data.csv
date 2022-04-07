@@ -1,0 +1,1438 @@
+EmployeeID,Salary,,City,Country,Gender,Hire Date,Department,Time Type
+2,88800,98800,Cologne,Germany,Male,03/05/2012,Sales,Part time
+3,156000,166000,Berlin,Germany,Male,02/08/2012,Sales,Part time
+4,110000,120000,Berlin,Germany,Male,11/08/2012,Sales,Full time
+5,52000,62000,Berlin,Germany,Male,02/11/2012,Sales,Full time
+6,140000,150000,Berlin,Germany,Male,17/12/2015,Sales,Full time
+7,25614,35614,Sofia,Bulgaria,Male,17/05/2013,Sales,Full time
+10,65000,75000,Berlin,Germany,Female,12/12/2013,Sales,Full time
+11,45000,55000,Berlin,Germany,Male,31/05/2014,Sales,Full time
+14,48000,58000,Berlin,Germany,Female,12/02/2015,Sales,Part time
+16,90000,100000,Berlin,Germany,Male,11/06/2015,Sales,Full time
+17,110000,120000,Berlin,Germany,Male,28/09/2017,Sales,Full time
+19,135000,145000,Berlin,Germany,Male,11/06/2015,Sales,Full time
+20,72000,82000,Berlin,Germany,Male,11/07/2015,Sales,Full time
+23,45000,55000,Berlin,Germany,Female,17/03/2016,Sales,Full time
+24,75000,85000,Berlin,Germany,Female,11/04/2016,Sales,Full time
+25,72000,82000,Berlin,Germany,Female,11/08/2016,Sales,Full time
+26,275000,285000,Cologne,Germany,Male,03/02/2012,Sales,Full time
+28,65000,75000,Berlin,Germany,Female,12/03/2017,Sales,Full time
+29,110000,120000,Berlin,Germany,Male,11/05/2017,Sales,Full time
+30,50000,60000,Barcelona,Spain,Male,11/05/2017,Sales,Full time
+31,81000,91000,Berlin,Germany,Male,22/06/2017,Sales,Full time
+32,120000,130000,Berlin,Germany,Male,06/07/2017,Sales,Full time
+34,71000,81000,Berlin,Germany,Male,13/09/2018,Sales,Full time
+35,110000,120000,Berlin,Germany,Male,11/10/2017,Sales,Full time
+37,64000,74000,Berlin,Germany,Female,12/10/2017,Sales,Full time
+41,108000,118000,Berlin,Germany,Male,30/11/2017,Sales,Full time
+42,60000,70000,Berlin,Germany,Female,08/02/2018,Sales,Full time
+43,44000,54000,Berlin,Germany,Female,12/01/2018,Sales,Full time
+44,34240,44240,Berlin,Germany,Male,11/02/2018,Sales,Full time
+45,68000,78000,Berlin,Germany,Female,25/01/2018,Sales,Full time
+46,145000,155000,Berlin,Germany,Male,01/02/2018,Sales,Full time
+47,110000,120000,Berlin,Germany,Male,11/02/2018,Sales,Full time
+48,29200,39200,Berlin,Germany,Female,11/03/2018,Sales,Full time
+50,87000,97000,Berlin,Germany,Female,11/04/2018,Sales,Full time
+51,75000,85000,Berlin,Germany,Male,11/04/2018,Sales,Full time
+52,75000,85000,Berlin,Germany,Male,11/04/2018,Sales,Full time
+55,86000,96000,Berlin,Germany,Female,24/05/2018,Sales,Full time
+56,150000,160000,Berlin,Germany,Male,11/05/2018,Sales,Full time
+59,105000,115000,Berlin,Germany,Male,11/06/2018,Sales,Full time
+60,56000,66000,Berlin,Germany,Male,28/06/2018,Sales,Part time
+61,110000,120000,Berlin,Germany,Male,11/07/2018,Sales,Full time
+62,49000,59000,Berlin,Germany,Female,26/07/2018,Sales,Full time
+63,56800,66800,Berlin,Germany,Female,11/08/2018,Sales,Full time
+64,80850,90850,Berlin,Germany,Female,11/08/2018,Sales,Full time
+65,42158,52158,Berlin,Germany,Female,11/08/2018,Sales,Full time
+66,32300,42300,Berlin,Germany,Male,11/09/2018,Sales,Full time
+67,85000,95000,Berlin,Germany,Male,11/09/2018,Sales,Full time
+69,70000,80000,Berlin,Germany,Female,25/09/2018,Sales,Full time
+70,42500,52500,Paris,France,Female,25/09/2018,Sales,Part time
+71,45000,55000,Berlin,Germany,Male,11/10/2018,Sales,Full time
+72,48000,58000,Berlin,Germany,Male,11/10/2018,Sales,Full time
+73,70000,80000,Berlin,Germany,Male,25/10/2018,Sales,Full time
+74,38880,48880,Berlin,Germany,Female,25/10/2018,Sales,Full time
+75,75000,85000,Berlin,Germany,Male,11/11/2018,Sales,Full time
+76,75000,85000,Berlin,Germany,Male,11/11/2018,Sales,Full time
+77,40000,50000,Berlin,Germany,Male,25/11/2018,Sales,Full time
+78,58300,68300,Berlin,Germany,Female,11/12/2018,Sales,Full time
+80,84000,94000,Berlin,Germany,Female,11/03/2019,Sales,Full time
+81,84000,94000,Berlin,Germany,Male,31/01/2019,Sales,Full time
+82,76000,86000,Berlin,Germany,Female,03/03/2019,Sales,Full time
+83,125000,135000,Berlin,Germany,Female,11/03/2019,Sales,Full time
+84,69000,79000,Berlin,Germany,Male,08/03/2018,Sales,Full time
+85,50400,60400,Berlin,Germany,Male,11/03/2019,Sales,Full time
+86,37236,47236,Berlin,Germany,Female,25/03/2019,Sales,Full time
+87,90000,100000,Berlin,Germany,Male,25/04/2019,Sales,Full time
+88,77000,87000,Berlin,Germany,Male,25/05/2019,Sales,Full time
+89,68200,78200,Berlin,Germany,Male,11/05/2019,Sales,Full time
+90,90000,100000,Berlin,Germany,Male,11/04/2019,Sales,Full time
+91,52500,62500,Berlin,Germany,Female,03/05/2019,Sales,Full time
+93,56000,66000,Berlin,Germany,Female,11/06/2019,Sales,Full time
+94,45000,55000,Berlin,Germany,Male,01/11/2019,Sales,Full time
+95,78000,88000,Berlin,Germany,Male,11/07/2019,Sales,Full time
+96,135000,145000,Berlin,Germany,Male,12/08/2019,Sales,Full time
+97,65000,75000,Berlin,Germany,Female,11/09/2019,Sales,Full time
+98,28000,38000,Berlin,Germany,Female,26/07/2019,Sales,Full time
+99,92000,102000,Berlin,Germany,Female,11/08/2019,Sales,Full time
+100,95000,105000,Berlin,Germany,Male,11/09/2019,Sales,Full time
+101,66500,76500,Berlin,Germany,Female,11/09/2019,Sales,Full time
+102,95000,105000,Berlin,Germany,Male,11/11/2019,Sales,Full time
+103,78000,88000,Berlin,Germany,Male,11/07/2019,Sales,Full time
+104,55000,65000,Berlin,Germany,Male,09/07/2019,Sales,Full time
+105,90000,100000,Berlin,Germany,Male,09/09/2019,Sales,Full time
+107,65000,75000,Berlin,Germany,Female,09/09/2019,Sales,Full time
+108,100000,110000,Berlin,Germany,Male,09/11/2019,Sales,Full time
+110,35000,45000,Berlin,Germany,Female,27/08/2019,Sales,Full time
+111,85000,95000,Berlin,Germany,Diverse,23/11/2019,Sales,Full time
+113,33000,43000,Berlin,Germany,Male,09/10/2019,Sales,Full time
+114,80000,90000,Berlin,Germany,Male,21/11/2019,Sales,Full time
+115,225000,235000,Berlin,Germany,Female,09/11/2019,Sales,Full time
+116,45360,55360,Berlin,Germany,Male,09/10/2019,Sales,Full time
+117,112000,122000,Berlin,Germany,Male,09/11/2019,Sales,Part time
+118,36000,46000,Berlin,Germany,Female,23/10/2019,Sales,Full time
+119,140000,150000,Boulder,United States of America,Male,22/10/2019,Sales,Full time
+121,68250,78250,Berlin,Germany,Male,03/12/2019,Sales,Full time
+122,120000,130000,Berlin,Germany,Male,09/11/2019,Sales,Full time
+124,77840,87840,Berlin,Germany,Female,09/02/2020,Sales,Full time
+125,67100,77100,Berlin,Germany,Female,26/11/2019,Sales,Full time
+127,88000,98000,Berlin,Germany,Male,23/01/2020,Sales,Full time
+128,68000,78000,Berlin,Germany,Female,14/02/2020,Sales,Full time
+129,65000,75000,Berlin,Germany,Female,23/01/2020,Sales,Full time
+132,80000,90000,Berlin,Germany,Male,09/03/2020,Sales,Full time
+133,80000,90000,Berlin,Germany,Male,23/01/2020,Sales,Full time
+134,60000,70000,Berlin,Germany,Male,23/01/2020,Sales,Full time
+135,146000,156000,Berlin,Germany,Female,09/03/2020,Sales,Full time
+136,71000,81000,Berlin,Germany,Male,09/03/2020,Sales,Full time
+137,75000,85000,Berlin,Germany,Female,23/01/2020,Sales,Full time
+138,36000,46000,Berlin,Germany,Male,23/01/2020,Sales,Full time
+140,63000,73000,Berlin,Germany,Male,23/01/2020,Sales,Full time
+141,90000,100000,Berlin,Germany,Female,23/02/2020,Sales,Full time
+142,65000,75000,Berlin,Germany,Female,23/01/2020,Sales,Full time
+144,74812,84812,Berlin,Germany,Male,09/03/2020,Sales,Full time
+145,84000,94000,Berlin,Germany,Male,09/02/2020,Sales,Full time
+146,130000,140000,Berlin,Germany,Male,09/03/2020,Sales,Full time
+147,87000,97000,Berlin,Germany,Male,25/02/2020,Sales,Full time
+148,112240,122240,Berlin,Germany,Male,29/01/2020,Sales,Full time
+149,55000,65000,Berlin,Germany,Male,09/03/2020,Sales,Full time
+153,60000,70000,Berlin,Germany,Female,09/03/2020,Sales,Full time
+157,89100,99100,Berlin,Germany,Male,23/03/2020,Sales,Full time
+160,78000,88000,Berlin,Germany,Male,01/09/2020,Sales,Full time
+162,80000,90000,Berlin,Germany,Male,23/09/2016,Sales,Full time
+163,79000,89000,Cologne,Germany,Male,09/06/2020,Sales,Full time
+164,111173,121173,Berlin,Germany,Male,09/05/2020,Sales,Full time
+165,65000,75000,Berlin,Germany,Female,09/08/2020,Sales,Full time
+166,75010,85010,Berlin,Germany,Male,09/07/2020,Sales,Full time
+167,85000,95000,Berlin,Germany,Male,09/08/2020,Sales,Full time
+169,82000,92000,Berlin,Germany,Male,09/10/2020,Sales,Full time
+170,86000,96000,Berlin,Germany,Male,09/09/2020,Sales,Full time
+171,90000,100000,Berlin,Germany,Male,09/07/2020,Sales,Full time
+172,82000,92000,Berlin,Germany,Male,23/08/2020,Sales,Full time
+173,80000,90000,Berlin,Germany,Female,09/11/2020,Sales,Full time
+174,70000,80000,Berlin,Germany,Male,17/12/2019,Sales,Full time
+175,92000,102000,Berlin,Germany,Male,09/08/2020,Sales,Full time
+176,82000,92000,Berlin,Germany,Male,09/08/2020,Sales,Full time
+178,92000,102000,Berlin,Germany,Female,18/09/2020,Sales,Full time
+179,50000,60000,Berlin,Germany,Male,23/09/2020,Sales,Full time
+181,119700,129700,Berlin,Germany,Male,09/10/2020,Sales,Full time
+182,70000,80000,Berlin,Germany,Male,09/10/2020,Sales,Full time
+186,41400,51400,Berlin,Germany,Male,28/05/2019,Sales,Full time
+188,180000,190000,Berlin,Germany,Male,10/11/2020,Sales,Full time
+189,63000,73000,Berlin,Germany,Male,09/12/2020,Sales,Full time
+191,81000,91000,Berlin,Germany,Male,23/11/2020,Sales,Full time
+192,52000,62000,Berlin,Germany,Male,23/11/2020,Sales,Full time
+194,75000,85000,Berlin,Germany,Male,09/12/2020,Sales,Full time
+197,68800,78800,Berlin,Germany,Female,23/06/2021,Sales,Part time
+200,19240,29240,Berlin,Germany,Male,09/05/2019,Sales,Part time
+203,17985,27985,São Paulo,Brazil,Female,10/05/2017,Sales,Full time
+206,22645,32645,São Paulo,Brazil,Male,25/07/2017,Sales,Full time
+207,68000,78000,Berlin,Germany,Female,11/10/2017,Sales,Full time
+209,80000,90000,Berlin,Germany,Male,19/12/2017,Sales,Full time
+210,40000,50000,São Paulo,Brazil,Male,23/01/2018,Sales,Full time
+212,105000,115000,Berlin,Germany,Male,24/04/2018,Sales,Full time
+217,17985,27985,São Paulo,Brazil,Male,10/07/2018,Sales,Full time
+220,80000,90000,Berlin,Germany,Male,15/01/2019,Sales,Full time
+224,115000,125000,Berlin,Germany,Female,13/08/2019,Sales,Full time
+227,31328,41328,São Paulo,Brazil,Male,10/09/2019,Sales,Full time
+229,22591,32591,São Paulo,Brazil,Male,24/09/2019,Sales,Full time
+230,31610,41610,São Paulo,Brazil,Male,09/10/2019,Sales,Full time
+232,70000,80000,Berlin,Germany,Female,12/11/2019,Sales,Full time
+233,63000,73000,Berlin,Germany,Female,26/11/2019,Sales,Full time
+236,66500,76500,Berlin,Germany,Female,14/01/2020,Sales,Full time
+237,17440,27440,São Paulo,Brazil,Male,14/01/2020,Sales,Full time
+238,63000,73000,Berlin,Germany,Male,14/01/2020,Sales,Full time
+240,18530,28530,São Paulo,Brazil,Male,11/02/2020,Sales,Full time
+242,59000,69000,São Paulo,Brazil,Female,10/03/2020,Sales,Full time
+244,22000,32000,São Paulo,Brazil,Male,14/04/2020,Sales,Full time
+247,80000,90000,Berlin,Germany,Male,21/04/2020,Sales,Full time
+249,75000,85000,Berlin,Germany,Male,22/09/2020,Sales,Full time
+251,24380,34380,São Paulo,Brazil,Male,09/12/2020,Sales,Full time
+252,72000,82000,Berlin,Germany,Female,09/01/2021,Sales,Full time
+253,88000,98000,Berlin,Germany,Female,09/01/2021,Sales,Part time
+257,46000,56000,Berlin,Germany,Female,09/01/2021,Sales,Full time
+258,150000,160000,Berlin,Germany,Male,09/01/2021,Sales,Full time
+259,75000,85000,Berlin,Germany,Female,16/02/2021,Sales,Full time
+260,110000,120000,Berlin,Germany,Female,14/09/2021,Sales,Full time
+261,69000,79000,Berlin,Germany,Male,16/02/2021,Sales,Full time
+263,140400,150400,Berlin,Germany,Female,16/02/2021,Sales,Full time
+264,35000,45000,Berlin,Germany,Male,02/03/2021,Sales,Full time
+265,115000,125000,Berlin,Germany,Male,16/03/2021,Sales,Full time
+266,81000,91000,Berlin,Germany,Male,16/03/2021,Sales,Full time
+267,84000,94000,Berlin,Germany,Male,16/03/2021,Sales,Full time
+268,100000,110000,Berlin,Germany,Male,16/03/2021,Sales,Full time
+269,102000,112000,Berlin,Germany,Female,16/03/2021,Sales,Part time
+271,105000,115000,Berlin,Germany,Male,16/03/2021,Sales,Full time
+273,72000,82000,Berlin,Germany,Female,16/03/2021,Sales,Full time
+274,82000,92000,Berlin,Germany,Male,16/06/2021,Sales,Full time
+275,48000,58000,Berlin,Germany,Male,16/04/2021,Sales,Full time
+277,53333,63333,Copenhagen,Denmark,Female,16/03/2021,Sales,Full time
+279,17637,27637,São Paulo,Brazil,Male,16/03/2021,Sales,Full time
+283,70000,80000,Berlin,Germany,Male,16/04/2021,Sales,Full time
+284,78000,88000,Berlin,Germany,Male,16/04/2021,Sales,Full time
+285,70000,80000,Berlin,Germany,Male,16/04/2021,Sales,Full time
+286,72000,82000,Berlin,Germany,Female,16/04/2021,Sales,Full time
+287,80000,90000,Berlin,Germany,Male,16/05/2021,Sales,Full time
+288,120000,130000,Paris,France,Male,16/04/2021,Sales,Full time
+289,75000,85000,Berlin,Germany,Male,16/04/2021,Sales,Full time
+292,73000,83000,Berlin,Germany,Male,30/04/2021,Sales,Full time
+293,95000,105000,Berlin,Germany,Male,30/04/2021,Sales,Full time
+297,80000,90000,Berlin,Germany,Male,30/04/2021,Sales,Full time
+298,19570,29570,São Paulo,Brazil,Male,27/04/2021,Sales,Full time
+299,18540,28540,São Paulo,Brazil,Male,27/04/2021,Sales,Full time
+301,98000,108000,Berlin,Germany,Male,16/05/2021,Sales,Full time
+302,130000,140000,Berlin,Germany,Male,30/05/2021,Sales,Full time
+303,82000,92000,Berlin,Germany,Male,30/05/2021,Sales,Full time
+304,67000,77000,Berlin,Germany,Male,16/05/2021,Sales,Full time
+305,84000,94000,Berlin,Germany,Male,16/05/2021,Sales,Full time
+306,40000,50000,Berlin,Germany,Female,30/05/2021,Sales,Full time
+307,72000,82000,Berlin,Germany,Female,16/05/2021,Sales,Full time
+308,21000,31000,Berlin,Germany,Male,30/05/2021,Sales,Full time
+312,80000,90000,Berlin,Germany,Female,18/05/2021,Sales,Full time
+315,48000,58000,Berlin,Germany,Female,16/05/2021,Sales,Full time
+316,73500,83500,Berlin,Germany,Female,16/06/2021,Sales,Part time
+317,110000,120000,Berlin,Germany,Male,30/06/2021,Sales,Full time
+318,100000,110000,Berlin,Germany,Male,16/06/2021,Sales,Full time
+319,90000,100000,Berlin,Germany,Female,16/06/2021,Sales,Full time
+321,75000,85000,Berlin,Germany,Male,30/06/2021,Sales,Full time
+322,85000,95000,Berlin,Germany,Male,22/05/2021,Sales,Full time
+323,72000,82000,Berlin,Germany,Female,05/07/2021,Sales,Full time
+324,75000,85000,Berlin,Germany,Male,21/06/2021,Sales,Full time
+325,82000,92000,Berlin,Germany,Male,05/06/2021,Sales,Full time
+326,93000,103000,Berlin,Germany,Male,21/06/2021,Sales,Full time
+328,130000,140000,Berlin,Germany,Male,21/06/2021,Sales,Full time
+329,78000,88000,Berlin,Germany,Male,21/06/2021,Sales,Full time
+330,58000,68000,Berlin,Germany,Male,21/06/2021,Sales,Full time
+332,76000,86000,Remote SumUp Limited,Germany,Male,21/09/2021,Sales,Full time
+333,68000,78000,Berlin,Germany,Male,21/06/2021,Sales,Full time
+334,68000,78000,Berlin,Germany,Male,21/06/2021,Sales,Full time
+335,70000,80000,Berlin,Germany,Male,05/08/2021,Sales,Full time
+337,73000,83000,Berlin,Germany,Male,05/08/2021,Sales,Full time
+338,80000,90000,Berlin,Germany,Male,23/07/2021,Sales,Full time
+339,80000,90000,Berlin,Germany,Male,23/07/2021,Sales,Full time
+340,90000,100000,Berlin,Germany,Male,05/09/2021,Sales,Full time
+341,53000,63000,Berlin,Germany,Male,22/08/2021,Sales,Full time
+342,84000,94000,Berlin,Germany,Male,22/08/2021,Sales,Full time
+343,38000,48000,Berlin,Germany,Female,05/09/2021,Sales,Full time
+344,80000,90000,Berlin,Germany,Female,06/08/2021,Sales,Full time
+345,75000,85000,Berlin,Germany,Male,22/08/2021,Sales,Full time
+346,75000,85000,Berlin,Germany,Male,22/10/2021,Sales,Full time
+347,100000,110000,Berlin,Germany,Male,21/09/2021,Sales,Full time
+348,100000,110000,Berlin,Germany,Female,05/09/2021,Sales,Full time
+349,80000,90000,Berlin,Germany,Male,05/11/2021,Sales,Full time
+351,80000,90000,Berlin,Germany,Male,05/09/2021,Sales,Full time
+352,75000,85000,Berlin,Germany,Female,22/12/2021,Sales,Full time
+353,88000,98000,Berlin,Germany,Male,22/12/2021,Sales,Full time
+354,44000,54000,Berlin,Germany,Male,05/11/2021,Sales,Full time
+355,50000,60000,Berlin,Germany,Male,05/10/2021,Sales,Full time
+356,140000,150000,London,United Kingdom,Male,21/11/2021,Sales,Full time
+357,75000,85000,Berlin,Germany,Female,22/01/2022,Sales,Full time
+359,72000,82000,Berlin,Germany,Female,05/01/2022,Sales,Full time
+360,18000,28000,São Paulo,Brazil,Male,06/11/2021,Sales,Full time
+361,120000,130000,Berlin,Germany,Male,05/11/2021,Sales,Full time
+363,90000,100000,Dublin,Ireland,Male,05/11/2021,Sales,Full time
+364,78000,88000,Berlin,Germany,Male,21/11/2021,Sales,Full time
+366,80000,90000,Berlin,Germany,Male,21/11/2021,Sales,Full time
+367,78000,88000,Berlin,Germany,Male,19/02/2022,Sales,Full time
+368,112500,122500,Berlin,Germany,Male,19/02/2022,Sales,Full time
+369,78000,88000,Berlin,Germany,Male,19/02/2022,Sales,Full time
+370,75000,85000,Berlin,Germany,Male,22/12/2021,Sales,Full time
+371,105000,115000,Berlin,Germany,Male,22/12/2021,Sales,Full time
+373,78000,88000,Berlin,Germany,Male,22/01/2022,Sales,Full time
+374,70000,80000,Berlin,Germany,Female,05/01/2022,Sales,Full time
+375,29402,39402,São Paulo,Brazil,Diverse,31/12/2021,Sales,Full time
+378,70000,80000,Berlin,Germany,Male,19/02/2022,Sales,Full time
+379,75000,85000,Berlin,Germany,Male,22/01/2022,Sales,Full time
+380,80000,90000,Berlin,Germany,Male,30/01/2022,Sales,Full time
+381,100000,110000,Berlin,Germany,Male,22/01/2022,Sales,Full time
+382,145000,155000,London,United Kingdom,Male,11/03/2022,Sales,Full time
+384,95000,105000,Berlin,Germany,Male,05/02/2022,Sales,Full time
+386,72000,82000,Berlin,Germany,Male,05/02/2022,Sales,Full time
+387,85000,95000,Berlin,Germany,Male,19/02/2022,Sales,Full time
+406,100000,110000,London,United Kingdom,Male,22/05/2012,Administration,Full time
+407,140000,150000,Berlin,Germany,Male,14/01/2012,Administration,Full time
+408,152000,162000,Berlin,Germany,Male,27/01/2012,Administration,Full time
+409,260000,270000,Berlin,Germany,Male,27/01/2012,Administration,Full time
+410,220000,230000,Boulder,United States of America,Male,18/02/2012,Administration,Full time
+411,140000,150000,Berlin,Germany,Male,12/03/2012,Administration,Full time
+412,20833,30833,Sofia,Bulgaria,Male,30/03/2012,Administration,Full time
+413,152000,162000,Berlin,Germany,Male,09/04/2012,Administration,Full time
+414,175000,185000,Dublin,Ireland,Male,16/06/2012,Administration,Full time
+415,120000,130000,Berlin,Germany,Male,07/09/2012,Administration,Full time
+417,140000,150000,Dublin,Ireland,Male,24/08/2018,Administration,Full time
+419,25000,35000,Sofia,Bulgaria,Female,22/07/2013,Administration,Full time
+421,20115,30115,Sofia,Bulgaria,Male,06/03/2015,Administration,Full time
+422,49500,59500,Berlin,Germany,Female,05/07/2016,Administration,Part time
+423,47610,57610,Berlin,Germany,Male,10/07/2016,Administration,Full time
+426,90000,100000,Dublin,Ireland,Male,24/03/2017,Administration,Full time
+427,36050,46050,Dublin,Ireland,Female,27/05/2017,Administration,Full time
+428,39376,49376,Berlin,Germany,Male,22/07/2017,Administration,Part time
+429,29000,39000,Dublin,Ireland,Male,16/05/2017,Administration,Full time
+430,46000,56000,Dublin,Ireland,Male,25/08/2017,Administration,Full time
+432,53500,63500,Dublin,Ireland,Male,20/08/2017,Administration,Full time
+439,37000,47000,Dublin,Ireland,Male,23/12/2017,Administration,Full time
+440,43200,53200,Dublin,Ireland,Male,29/12/2017,Administration,Full time
+441,29000,39000,London,United Kingdom,Female,09/02/2018,Administration,Full time
+444,25000,35000,Sofia,Bulgaria,Male,22/03/2018,Administration,Full time
+446,275000,285000,Cologne,Germany,Male,19/02/2018,Administration,Full time
+447,38880,48880,Berlin,Germany,Male,05/03/2018,Administration,Full time
+452,29000,39000,London,United Kingdom,Female,18/05/2018,Administration,Full time
+454,37000,47000,London,United Kingdom,Female,29/06/2018,Administration,Full time
+455,44000,54000,Berlin,Germany,Female,25/05/2018,Administration,Full time
+456,92000,102000,Berlin,Germany,Female,22/07/2018,Administration,Full time
+460,125000,135000,Berlin,Germany,Male,21/09/2018,Administration,Full time
+461,55000,65000,Berlin,Germany,Male,21/09/2018,Administration,Full time
+462,50000,60000,Berlin,Germany,Male,21/09/2018,Administration,Full time
+465,34000,44000,London,United Kingdom,Female,10/11/2018,Administration,Full time
+466,40500,50500,Berlin,Germany,Male,05/11/2018,Administration,Full time
+468,40280,50280,Dublin,Ireland,Male,20/10/2018,Administration,Full time
+469,50000,60000,Dublin,Ireland,Female,02/11/2018,Administration,Full time
+472,77000,87000,Berlin,Germany,Male,22/12/2018,Administration,Full time
+474,78000,88000,Dublin,Ireland,Female,05/01/2019,Administration,Full time
+477,130000,140000,Berlin,Germany,Female,05/01/2018,Administration,Full time
+479,42500,52500,Dublin,Ireland,Female,08/02/2019,Administration,Full time
+480,33000,43000,Berlin,Germany,Male,05/03/2019,Administration,Part time
+481,103554,113554,Lithuania,Lithuania,Female,08/03/2019,Administration,Full time
+482,43200,53200,Dublin,Ireland,Male,23/02/2019,Administration,Full time
+487,47300,57300,Lithuania,Lithuania,Male,22/04/2019,Administration,Full time
+488,52000,62000,Dublin,Ireland,Female,29/03/2019,Administration,Full time
+491,32000,42000,Dublin,Ireland,Male,18/05/2019,Administration,Full time
+492,110000,120000,Berlin,Germany,Male,05/11/2019,Administration,Full time
+493,42500,52500,Dublin,Ireland,Female,23/06/2019,Administration,Full time
+494,96000,106000,Berlin,Germany,Female,05/09/2019,Administration,Full time
+495,94500,104500,Berlin,Germany,Male,22/07/2019,Administration,Full time
+496,75064,85064,Lithuania,Lithuania,Female,16/08/2019,Administration,Full time
+499,93090,103090,Dublin,Ireland,Male,06/09/2019,Administration,Full time
+500,48000,58000,Berlin,Germany,Female,22/10/2019,Administration,Full time
+505,31500,41500,Copenhagen,Denmark,Female,01/11/2019,Administration,Full time
+506,69000,79000,Dublin,Ireland,Female,29/11/2019,Administration,Full time
+507,69000,79000,Dublin,Ireland,Female,24/11/2019,Administration,Full time
+508,45000,55000,Berlin,Germany,Female,22/12/2019,Administration,Full time
+510,63000,73000,London,United Kingdom,Male,21/11/2019,Administration,Part time
+513,92000,102000,Berlin,Germany,Female,22/03/2020,Administration,Full time
+517,68000,78000,Berlin,Germany,Female,14/02/2020,Administration,Full time
+519,62000,72000,Berlin,Germany,Female,20/02/2020,Administration,Full time
+520,42000,52000,Berlin,Germany,Female,20/02/2020,Administration,Full time
+521,225000,235000,Berlin,Germany,Male,28/02/2020,Administration,Full time
+522,48000,58000,Dublin,Ireland,Female,14/02/2020,Administration,Part time
+524,130000,140000,Berlin,Germany,Female,22/03/2020,Administration,Full time
+525,105000,115000,Berlin,Germany,Female,21/04/2020,Administration,Full time
+526,85000,95000,Berlin,Germany,Female,05/03/2020,Administration,Full time
+527,90000,100000,Berlin,Germany,Female,22/05/2020,Administration,Full time
+528,64800,74800,Dublin,Ireland,Female,13/03/2020,Administration,Part time
+529,57000,67000,Remote SumUp Limited,Germany,Female,22/12/2021,Administration,Full time
+530,96000,106000,Berlin,Germany,Male,22/03/2020,Administration,Full time
+531,92800,102800,Dublin,Ireland,Female,22/03/2020,Administration,Part time
+532,270000,280000,Dublin,Ireland,Male,05/04/2020,Administration,Full time
+533,156800,166800,Boulder,United States of America,Male,22/03/2020,Administration,Full time
+534,32000,42000,Dublin,Ireland,Female,20/03/2020,Administration,Full time
+535,120000,130000,Luxembourg,Luxembourg,Female,21/04/2020,Administration,Full time
+536,86110,96110,Dublin,Ireland,Female,17/04/2020,Administration,Full time
+537,28704,38704,Lithuania,Lithuania,Female,24/04/2020,Administration,Full time
+538,29532,39532,Lithuania,Lithuania,Female,24/04/2020,Administration,Full time
+539,200000,210000,Berlin,Germany,Male,12/06/2020,Administration,Full time
+540,85000,95000,Berlin,Germany,Male,22/07/2020,Administration,Full time
+541,34800,44800,Berlin,Germany,Female,05/09/2020,Administration,Full time
+543,22011,32011,London,United Kingdom,Male,21/09/2020,Administration,Full time
+544,38760,48760,Lithuania,Lithuania,Female,09/10/2020,Administration,Full time
+546,85000,95000,Berlin,Germany,Female,21/09/2020,Administration,Full time
+547,69504,79504,Lithuania,Lithuania,Female,24/10/2020,Administration,Full time
+548,45000,55000,Dublin,Ireland,Female,05/10/2020,Administration,Full time
+550,45000,55000,Berlin,Germany,Female,22/10/2020,Administration,Full time
+551,54000,64000,Berlin,Germany,Female,22/10/2020,Administration,Full time
+553,47000,57000,Berlin,Germany,Female,05/01/2020,Administration,Full time
+554,53000,63000,Berlin,Germany,Female,05/11/2020,Administration,Full time
+555,78800,88800,Berlin,Germany,Male,05/11/2020,Administration,Part time
+556,125000,135000,Berlin,Germany,Female,21/11/2020,Administration,Full time
+557,42000,52000,Berlin,Germany,Female,21/11/2020,Administration,Full time
+558,40000,50000,London,United Kingdom,Female,27/11/2020,Administration,Part time
+559,46980,56980,Lithuania,Lithuania,Male,21/11/2020,Administration,Full time
+560,42000,52000,Berlin,Germany,Male,29/03/2019,Administration,Full time
+561,108000,118000,London,United Kingdom,Female,29/08/2020,Administration,Full time
+562,78000,88000,Boulder,United States of America,Female,08/10/2017,Administration,Full time
+563,275000,285000,Boulder,United States of America,Male,31/08/2018,Administration,Full time
+564,88200,98200,Boulder,United States of America,Male,07/12/2018,Administration,Full time
+565,96000,106000,Boulder,United States of America,Male,28/06/2019,Administration,Full time
+566,300000,310000,Boulder,United States of America,Male,23/12/2019,Administration,Full time
+567,53000,63000,Berlin,Germany,Female,22/10/2020,Administration,Full time
+572,18317,28317,São Paulo,Brazil,Female,09/06/2017,Administration,Full time
+579,23108,33108,São Paulo,Brazil,Male,22/04/2018,Administration,Full time
+588,18435,28435,São Paulo,Brazil,Male,06/11/2018,Administration,Full time
+592,71096,81096,São Paulo,Brazil,Female,01/03/2019,Administration,Full time
+593,55388,65388,São Paulo,Brazil,Female,29/03/2019,Administration,Full time
+594,31805,41805,São Paulo,Brazil,Male,05/04/2019,Administration,Full time
+595,17509,27509,São Paulo,Brazil,Male,26/04/2019,Administration,Full time
+599,19077,29077,São Paulo,Brazil,Male,21/06/2019,Administration,Full time
+601,72000,82000,Berlin,Germany,Female,22/07/2019,Administration,Full time
+602,38150,48150,São Paulo,Brazil,Female,26/07/2019,Administration,Full time
+606,25750,35750,São Paulo,Brazil,Female,21/09/2019,Administration,Full time
+610,120000,130000,Berlin,Germany,Male,22/11/2019,Administration,Full time
+614,18159,28159,São Paulo,Brazil,Male,03/01/2020,Administration,Full time
+615,67200,77200,Berlin,Germany,Male,03/01/2020,Administration,Full time
+616,98906,108906,São Paulo,Brazil,Male,24/01/2020,Administration,Full time
+622,21996,31996,São Paulo,Brazil,Male,27/03/2020,Administration,Full time
+624,24525,34525,São Paulo,Brazil,Female,27/03/2020,Administration,Full time
+627,37362,47362,São Paulo,Brazil,Female,24/10/2020,Administration,Full time
+632,270150,280150,London,United Kingdom,Male,25/12/2020,Administration,Full time
+633,75000,85000,Lithuania,Lithuania,Diverse,25/12/2020,Administration,Full time
+634,60000,70000,Dublin,Ireland,Female,22/01/2021,Administration,Full time
+635,35000,45000,Dublin,Ireland,Male,25/12/2020,Administration,Full time
+636,32000,42000,London,United Kingdom,Female,25/12/2020,Administration,Full time
+639,55000,65000,Berlin,Germany,Female,22/12/2020,Administration,Full time
+640,80300,90300,Berlin,Germany,Male,22/01/2021,Administration,Full time
+641,325000,335000,Berlin,Germany,Female,22/12/2020,Administration,Full time
+642,77750,87750,Lithuania,Lithuania,Male,22/01/2021,Administration,Full time
+643,170500,180500,Dublin,Ireland,Male,10/01/2021,Administration,Full time
+644,78110,88110,Dublin,Ireland,Male,25/12/2020,Administration,Full time
+645,80000,90000,Berlin,Germany,Female,05/01/2021,Administration,Full time
+646,75000,85000,London,United Kingdom,Female,22/01/2021,Administration,Full time
+649,50000,60000,Berlin,Germany,Male,05/02/2021,Administration,Full time
+650,32627,42627,São Paulo,Brazil,Male,25/12/2020,Administration,Full time
+652,65000,75000,Berlin,Germany,Female,31/01/2021,Administration,Full time
+654,72500,82500,Boulder,United States of America,Female,28/02/2021,Administration,Full time
+655,71000,81000,Berlin,Germany,Female,21/04/2021,Administration,Full time
+656,78000,88000,Berlin,Germany,Female,21/03/2021,Administration,Full time
+658,65000,75000,Berlin,Germany,Female,21/03/2021,Administration,Full time
+659,92500,102500,Berlin,Germany,Female,04/04/2021,Administration,Full time
+664,40000,50000,Dublin,Ireland,Female,21/03/2021,Administration,Full time
+665,137800,147800,London,United Kingdom,Female,21/04/2021,Administration,Full time
+667,42000,52000,Berlin,Germany,Male,04/04/2021,Administration,Full time
+668,90000,100000,Berlin,Germany,Male,21/03/2021,Administration,Full time
+669,47000,57000,Berlin,Germany,Male,04/04/2021,Administration,Full time
+670,100000,110000,Berlin,Germany,Male,21/03/2021,Administration,Full time
+672,65000,75000,Berlin,Germany,Male,04/04/2021,Administration,Full time
+675,90000,100000,Luxembourg,Luxembourg,Diverse,21/03/2021,Administration,Part time
+682,34800,44800,Berlin,Germany,Male,05/05/2021,Administration,Full time
+688,31200,41200,London,United Kingdom,Female,21/04/2021,Administration,Full time
+694,130000,140000,Dublin,Ireland,Female,24/05/2021,Administration,Full time
+695,350000,360000,Berlin,Germany,Male,06/05/2021,Administration,Full time
+698,120000,130000,Berlin,Germany,Female,06/05/2021,Administration,Full time
+699,85000,95000,Berlin,Germany,Male,06/05/2021,Administration,Full time
+700,63800,73800,Berlin,Germany,Male,06/05/2021,Administration,Full time
+701,90000,100000,Dublin,Ireland,Female,16/05/2021,Administration,Full time
+702,55000,65000,Berlin,Germany,Male,06/05/2021,Administration,Full time
+703,55000,65000,Berlin,Germany,Male,06/05/2021,Administration,Full time
+704,45000,55000,Berlin,Germany,Female,06/05/2021,Administration,Full time
+705,91500,101500,Dublin,Ireland,Male,15/05/2021,Administration,Full time
+707,45000,55000,Berlin,Germany,Male,06/06/2021,Administration,Full time
+708,62500,72500,Berlin,Germany,Female,06/06/2021,Administration,Full time
+711,53000,63000,Berlin,Germany,Male,06/07/2021,Administration,Full time
+713,41666,51666,Warsaw,Poland,Male,06/07/2021,Administration,Full time
+714,85000,95000,Berlin,Germany,Female,06/07/2021,Administration,Full time
+715,150000,160000,Berlin,Germany,Female,06/07/2021,Administration,Full time
+721,64000,74000,Berlin,Germany,Female,06/11/2021,Administration,Full time
+725,48000,58000,São Paulo,Brazil,Male,21/08/2021,Administration,Full time
+726,80000,90000,Berlin,Germany,Male,06/11/2021,Administration,Full time
+727,20000,30000,São Paulo,Brazil,Male,21/08/2021,Administration,Full time
+734,45000,55000,Copenhagen,Denmark,Female,26/09/2021,Administration,Full time
+739,90000,100000,Berlin,Germany,Female,06/11/2021,Administration,Full time
+741,32000,42000,Berlin,Germany,Female,20/11/2021,Administration,Full time
+742,36000,46000,Berlin,Germany,Male,20/11/2021,Administration,Part time
+743,37000,47000,Berlin,Germany,Female,06/12/2021,Administration,Full time
+744,36000,46000,Paris,France,Female,27/11/2021,Administration,Full time
+746,75000,85000,Berlin,Germany,Male,06/03/2022,Administration,Full time
+747,24500,34500,São Paulo,Brazil,Female,06/12/2021,Administration,Full time
+752,75000,85000,London,United Kingdom,Male,05/02/2022,Administration,Full time
+753,41666,51666,Warsaw,Poland,Male,06/01/2022,Administration,Full time
+754,115000,125000,Dublin,Ireland,Male,07/02/2022,Administration,Full time
+755,110000,120000,Berlin,Germany,Male,20/01/2022,Administration,Full time
+761,96000,106000,Amsterdam,Netherlands,Male,06/02/2022,Administration,Full time
+770,21000,31000,Berlin,Germany,Male,06/03/2022,Administration,Full time
+771,65000,75000,London,United Kingdom,Female,06/03/2022,Administration,Full time
+773,206000,216000,California - San Francisco,United States of America,Male,31/05/2015,Administration,Full time
+777,135000,145000,California - San Francisco,United States of America,Female,20/11/2021,Administration,Full time
+801,95000,105000,Berlin,Germany,Male,08/02/2014,Research & Development,Full time
+805,100000,110000,Berlin,Germany,Male,06/01/2015,Research & Development,Full time
+810,95000,105000,Berlin,Germany,Male,06/08/2017,Research & Development,Full time
+813,77077,87077,Berlin,Germany,Male,20/01/2018,Research & Development,Full time
+814,90000,100000,Cologne,Germany,Male,06/03/2018,Research & Development,Full time
+815,42000,52000,Berlin,Germany,Male,06/04/2018,Research & Development,Full time
+816,42600,52600,Berlin,Germany,Male,20/03/2018,Research & Development,Full time
+818,38988,48988,Berlin,Germany,Male,06/07/2018,Research & Development,Full time
+819,76500,86500,Cologne,Germany,Male,06/09/2018,Research & Development,Part time
+820,85000,95000,Berlin,Germany,Male,20/08/2018,Research & Development,Full time
+821,90000,100000,Cologne,Germany,Male,06/11/2018,Research & Development,Full time
+822,95000,105000,Berlin,Germany,Female,27/10/2018,Research & Development,Full time
+825,90000,100000,Cologne,Germany,Male,06/01/2019,Research & Development,Full time
+826,84000,94000,Berlin,Germany,Male,20/01/2019,Research & Development,Full time
+827,95000,105000,Berlin,Germany,Male,20/01/2019,Research & Development,Full time
+828,38000,48000,Berlin,Germany,Female,20/01/2019,Research & Development,Full time
+829,59000,69000,Berlin,Germany,Female,06/04/2019,Research & Development,Full time
+832,37000,47000,Berlin,Germany,Male,06/03/2019,Research & Development,Full time
+833,85000,95000,Berlin,Germany,Male,20/03/2019,Research & Development,Full time
+837,33500,43500,Berlin,Germany,Female,06/08/2019,Research & Development,Full time
+838,35200,45200,Berlin,Germany,Male,20/07/2019,Research & Development,Full time
+840,32300,42300,Berlin,Germany,Female,06/08/2019,Research & Development,Full time
+841,33500,43500,Berlin,Germany,Male,06/08/2019,Research & Development,Full time
+843,37000,47000,Berlin,Germany,Male,20/09/2019,Research & Development,Full time
+844,36400,46400,Berlin,Germany,Male,06/10/2019,Research & Development,Full time
+845,210000,220000,Berlin,Germany,Male,06/02/2020,Research & Development,Full time
+846,66000,76000,Cologne,Germany,Male,06/11/2019,Research & Development,Full time
+847,30300,40300,Berlin,Germany,Male,06/01/2020,Research & Development,Full time
+849,74000,84000,Cologne,Germany,Male,06/12/2019,Research & Development,Full time
+851,46350,56350,Berlin,Germany,Male,20/01/2020,Research & Development,Full time
+853,30300,40300,Berlin,Germany,Male,06/02/2020,Research & Development,Full time
+854,195000,205000,Berlin,Germany,Male,06/02/2020,Research & Development,Full time
+855,18000,28000,Cologne,Germany,Female,06/02/2020,Research & Development,Part time
+856,38700,48700,Berlin,Germany,Male,20/02/2020,Research & Development,Full time
+858,90000,100000,Berlin,Germany,Male,06/03/2020,Research & Development,Full time
+859,45000,55000,Berlin,Germany,Male,20/03/2020,Research & Development,Full time
+861,65000,75000,Berlin,Germany,Female,06/04/2020,Research & Development,Full time
+862,92000,102000,Berlin,Germany,Male,06/04/2020,Research & Development,Full time
+863,115000,125000,Berlin,Germany,Male,06/05/2020,Research & Development,Full time
+866,110000,120000,Berlin,Germany,Female,06/06/2020,Research & Development,Full time
+867,84000,94000,Berlin,Germany,Male,06/07/2020,Research & Development,Full time
+869,68000,78000,Berlin,Germany,Female,06/07/2020,Research & Development,Full time
+870,135000,145000,Berlin,Germany,Male,06/07/2020,Research & Development,Full time
+871,64800,74800,Cologne,Germany,Male,20/07/2020,Research & Development,Part time
+873,81000,91000,Berlin,Germany,Male,06/08/2020,Research & Development,Full time
+874,85000,95000,Berlin,Germany,Male,06/09/2020,Research & Development,Full time
+875,80300,90300,Cologne,Germany,Male,06/11/2020,Research & Development,Part time
+876,110000,120000,Cologne,Germany,Male,06/10/2020,Research & Development,Full time
+877,50600,60600,Berlin,Germany,Female,06/10/2020,Research & Development,Full time
+879,98000,108000,Berlin,Germany,Male,20/10/2020,Research & Development,Full time
+880,105000,115000,Berlin,Germany,Male,06/11/2020,Research & Development,Full time
+881,180000,190000,Berlin,Germany,Male,06/11/2020,Research & Development,Full time
+882,50400,60400,Berlin,Germany,Male,20/11/2020,Research & Development,Part time
+884,120000,130000,Berlin,Germany,Male,06/12/2020,Research & Development,Full time
+885,50000,60000,Berlin,Germany,Male,06/12/2020,Research & Development,Full time
+886,46000,56000,Berlin,Germany,Male,06/12/2020,Research & Development,Full time
+887,43000,53000,Berlin,Germany,Female,06/12/2020,Research & Development,Full time
+888,85000,95000,Berlin,Germany,Male,06/12/2020,Research & Development,Full time
+889,150000,160000,Boulder,United States of America,Female,14/12/2019,Research & Development,Full time
+890,55467,65467,São Paulo,Brazil,Male,28/05/2016,Research & Development,Full time
+891,17985,27985,São Paulo,Brazil,Male,07/03/2017,Research & Development,Full time
+894,20710,30710,São Paulo,Brazil,Male,15/10/2016,Research & Development,Full time
+895,43600,53600,São Paulo,Brazil,Male,14/01/2017,Research & Development,Full time
+898,28885,38885,São Paulo,Brazil,Male,10/06/2017,Research & Development,Full time
+905,17985,27985,São Paulo,Brazil,Male,21/05/2018,Research & Development,Full time
+911,75000,85000,Berlin,Germany,Male,06/10/2018,Research & Development,Full time
+929,23980,33980,São Paulo,Brazil,Male,10/08/2019,Research & Development,Full time
+930,26890,36890,São Paulo,Brazil,Female,10/08/2019,Research & Development,Full time
+937,17985,27985,São Paulo,Brazil,Male,23/11/2019,Research & Development,Full time
+938,18530,28530,São Paulo,Brazil,Male,23/11/2019,Research & Development,Full time
+939,17000,27000,São Paulo,Brazil,Female,07/12/2019,Research & Development,Full time
+940,21800,31800,São Paulo,Brazil,Female,07/12/2019,Research & Development,Full time
+942,18000,28000,São Paulo,Brazil,Male,11/01/2020,Research & Development,Full time
+943,68000,78000,Berlin,Germany,Female,11/01/2020,Research & Development,Full time
+952,90000,100000,Berlin,Germany,Male,08/02/2020,Research & Development,Full time
+957,23980,33980,São Paulo,Brazil,Male,07/03/2020,Research & Development,Full time
+969,25000,35000,São Paulo,Brazil,Male,18/10/2020,Research & Development,Full time
+971,20282,30282,São Paulo,Brazil,Male,08/11/2020,Research & Development,Full time
+975,23000,33000,São Paulo,Brazil,Male,21/11/2020,Research & Development,Full time
+977,23500,33500,São Paulo,Brazil,Male,21/11/2020,Research & Development,Full time
+978,18000,28000,São Paulo,Brazil,Male,06/12/2020,Research & Development,Full time
+980,115000,125000,London,United Kingdom,Male,06/02/2021,Research & Development,Full time
+981,60420,70420,Berlin,Germany,Female,20/01/2021,Research & Development,Full time
+982,80000,90000,Cologne,Germany,Male,06/01/2021,Research & Development,Full time
+983,75000,85000,Berlin,Germany,Female,06/01/2021,Research & Development,Full time
+986,77000,87000,Berlin,Germany,Female,06/01/2021,Research & Development,Full time
+987,95000,105000,Berlin,Germany,Female,06/01/2021,Research & Development,Full time
+988,92000,102000,Berlin,Germany,Female,06/01/2021,Research & Development,Full time
+990,28500,38500,Berlin,Germany,Male,20/01/2021,Research & Development,Full time
+991,167000,177000,Boulder,United States of America,Male,23/01/2021,Research & Development,Full time
+992,75000,85000,Berlin,Germany,Male,06/02/2021,Research & Development,Full time
+994,100000,110000,Berlin,Germany,Male,06/02/2021,Research & Development,Full time
+995,80000,90000,Berlin,Germany,Male,06/02/2021,Research & Development,Full time
+996,73000,83000,Cologne,Germany,Male,06/02/2021,Research & Development,Full time
+997,78000,88000,Cologne,Germany,Male,06/02/2021,Research & Development,Full time
+998,22000,32000,São Paulo,Brazil,Male,06/02/2021,Research & Development,Full time
+1000,80000,90000,Berlin,Germany,Male,20/02/2021,Research & Development,Full time
+1002,35785,45785,São Paulo,Brazil,Male,16/01/2021,Research & Development,Full time
+1004,17892,27892,São Paulo,Brazil,Male,16/01/2021,Research & Development,Full time
+1007,84000,94000,Berlin,Germany,Male,20/02/2021,Research & Development,Full time
+1008,70000,80000,Cologne,Germany,Female,06/02/2021,Research & Development,Full time
+1010,66000,76000,Berlin,Germany,Female,06/03/2021,Research & Development,Full time
+1011,28500,38500,Berlin,Germany,Male,06/03/2021,Research & Development,Full time
+1015,75000,85000,Berlin,Germany,Male,06/03/2021,Research & Development,Full time
+1016,110000,120000,Berlin,Germany,Female,06/03/2021,Research & Development,Full time
+1017,43000,53000,Berlin,Germany,Female,20/03/2021,Research & Development,Full time
+1018,105000,115000,Berlin,Germany,Male,06/03/2021,Research & Development,Full time
+1019,20750,30750,São Paulo,Brazil,Female,06/03/2021,Research & Development,Full time
+1020,48500,58500,London,United Kingdom,Female,06/03/2021,Research & Development,Full time
+1021,77000,87000,Berlin,Germany,Male,06/04/2021,Research & Development,Full time
+1022,135000,145000,Berlin,Germany,Male,06/04/2021,Research & Development,Full time
+1023,140000,150000,Berlin,Germany,Male,06/04/2021,Research & Development,Full time
+1024,17000,27000,São Paulo,Brazil,Female,20/03/2021,Research & Development,Full time
+1025,18000,28000,São Paulo,Brazil,Female,20/03/2021,Research & Development,Full time
+1027,100000,110000,Berlin,Germany,Male,20/03/2021,Research & Development,Full time
+1028,73500,83500,Berlin,Germany,Female,06/04/2021,Research & Development,Full time
+1029,92000,102000,Berlin,Germany,Female,20/04/2021,Research & Development,Full time
+1030,72000,82000,Remote SumUp Limited,Germany,Female,06/04/2021,Research & Development,Full time
+1031,165000,175000,Remote SumUp Limited,Germany,Male,06/04/2021,Research & Development,Full time
+1032,80000,90000,Berlin,Germany,Male,06/04/2021,Research & Development,Full time
+1033,65000,75000,Cologne,Germany,Female,06/04/2021,Research & Development,Full time
+1034,120000,130000,Berlin,Germany,Male,06/04/2021,Research & Development,Full time
+1035,63860,73860,Berlin,Germany,Female,06/04/2021,Research & Development,Full time
+1036,85000,95000,Berlin,Germany,Male,20/09/2021,Research & Development,Full time
+1038,51500,61500,São Paulo,Brazil,Female,17/04/2021,Research & Development,Full time
+1040,28737,38737,São Paulo,Brazil,Male,01/05/2021,Research & Development,Full time
+1056,45000,55000,Berlin,Germany,Male,06/05/2021,Research & Development,Full time
+1057,140000,150000,Boulder,United States of America,Diverse,13/03/2021,Research & Development,Full time
+1058,140000,150000,Boulder,United States of America,Diverse,13/03/2021,Research & Development,Full time
+1059,55000,65000,Berlin,Germany,Female,06/05/2021,Research & Development,Full time
+1062,68000,78000,Berlin,Germany,Female,06/05/2021,Research & Development,Part time
+1063,78000,88000,Cologne,Germany,Male,06/05/2021,Research & Development,Full time
+1064,25562,35562,São Paulo,Brazil,Male,22/05/2021,Research & Development,Full time
+1068,115000,125000,Berlin,Germany,Female,20/06/2021,Research & Development,Full time
+1069,63000,73000,Berlin,Germany,Male,06/06/2021,Research & Development,Full time
+1070,72000,82000,Cologne,Germany,Male,06/08/2021,Research & Development,Full time
+1072,80000,90000,Berlin,Germany,Male,06/10/2021,Research & Development,Full time
+1074,36773,46773,São Paulo,Brazil,Female,06/07/2021,Research & Development,Full time
+1075,62000,72000,Cologne,Germany,Male,06/08/2021,Research & Development,Full time
+1076,75000,85000,Berlin,Germany,Male,20/07/2021,Research & Development,Full time
+1077,63000,73000,Berlin,Germany,Male,20/08/2021,Research & Development,Full time
+1078,18000,28000,São Paulo,Brazil,Male,17/07/2021,Research & Development,Full time
+1080,95000,105000,Berlin,Germany,Male,06/08/2021,Research & Development,Full time
+1085,105000,115000,Berlin,Germany,Female,06/10/2021,Research & Development,Full time
+1086,82500,92500,Berlin,Germany,Male,20/11/2021,Research & Development,Full time
+1087,17000,27000,São Paulo,Brazil,Male,06/09/2021,Research & Development,Full time
+1089,80000,90000,Berlin,Germany,Male,06/12/2021,Research & Development,Full time
+1092,90000,100000,Berlin,Germany,Male,06/10/2021,Research & Development,Full time
+1106,78000,88000,Berlin,Germany,Male,06/11/2021,Research & Development,Full time
+1107,100000,110000,Berlin,Germany,Male,06/01/2022,Research & Development,Full time
+1108,65000,75000,Berlin,Germany,Male,20/11/2021,Research & Development,Full time
+1109,84000,94000,Berlin,Germany,Male,06/12/2021,Research & Development,Full time
+1110,39000,49000,Lima,Peru,Female,06/10/2021,Research & Development,Full time
+1111,68000,78000,Berlin,Germany,Male,06/11/2021,Research & Development,Full time
+1112,62000,72000,Berlin,Germany,Female,06/11/2021,Research & Development,Full time
+1115,33000,43000,São Paulo,Brazil,Diverse,18/10/2021,Research & Development,Full time
+1117,63000,73000,Berlin,Germany,Female,20/02/2022,Research & Development,Full time
+1119,50000,60000,Berlin,Germany,Female,06/12/2021,Research & Development,Full time
+1120,75000,85000,Cologne,Germany,Male,06/11/2021,Research & Development,Full time
+1124,29700,39700,Berlin,Germany,Male,06/11/2021,Research & Development,Full time
+1125,27000,37000,Berlin,Germany,Female,06/11/2021,Research & Development,Full time
+1126,125000,135000,Boulder,United States of America,Female,20/11/2021,Research & Development,Full time
+1130,17000,27000,São Paulo,Brazil,Female,21/11/2021,Research & Development,Full time
+1132,17250,27250,São Paulo,Brazil,Diverse,21/11/2021,Research & Development,Full time
+1133,28000,38000,São Paulo,Brazil,Diverse,06/12/2021,Research & Development,Full time
+1134,19000,29000,São Paulo,Brazil,Diverse,06/12/2021,Research & Development,Full time
+1135,54000,64000,Lithuania,Lithuania,Male,11/12/2021,Research & Development,Full time
+1136,49586,59586,Lithuania,Lithuania,Diverse,08/01/2022,Research & Development,Full time
+1137,33325,43325,Lithuania,Lithuania,Male,18/12/2021,Research & Development,Full time
+1138,70000,80000,Berlin,Germany,Female,06/03/2022,Research & Development,Full time
+1139,21000,31000,Berlin,Germany,Male,06/01/2022,Research & Development,Full time
+1140,20000,30000,São Paulo,Brazil,Diverse,15/01/2022,Research & Development,Full time
+1141,22000,32000,São Paulo,Brazil,Diverse,15/01/2022,Research & Development,Full time
+1142,21000,31000,Berlin,Germany,Female,06/01/2022,Research & Development,Full time
+1143,58800,68800,Lithuania,Lithuania,Female,18/12/2021,Research & Development,Full time
+1144,75000,85000,Berlin,Germany,Female,06/01/2022,Research & Development,Full time
+1145,80000,90000,Berlin,Germany,Male,06/03/2022,Research & Development,Full time
+1147,19000,29000,São Paulo,Brazil,Diverse,08/01/2022,Research & Development,Full time
+1148,110000,120000,Berlin,Germany,Male,06/03/2022,Research & Development,Full time
+1149,160000,170000,Boulder,United States of America,Male,11/12/2021,Research & Development,Full time
+1150,79200,89200,Lithuania,Lithuania,Male,08/01/2022,Research & Development,Full time
+1152,27000,37000,Berlin,Germany,Male,06/01/2022,Research & Development,Full time
+1153,27000,37000,Berlin,Germany,Female,06/01/2022,Research & Development,Full time
+1154,27000,37000,Berlin,Germany,Female,06/01/2022,Research & Development,Full time
+1155,27000,37000,Berlin,Germany,Female,06/01/2022,Research & Development,Full time
+1156,27000,37000,Berlin,Germany,Female,06/01/2022,Research & Development,Full time
+1157,25000,35000,Berlin,Germany,Male,20/01/2022,Research & Development,Part time
+1161,70000,80000,Amsterdam,Netherlands,Female,23/01/2022,Research & Development,Full time
+1163,27000,37000,Berlin,Germany,Male,06/02/2022,Research & Development,Full time
+1166,27000,37000,Berlin,Germany,Male,06/03/2022,Research & Development,Full time
+1168,19500,29500,São Paulo,Brazil,Diverse,06/02/2022,Research & Development,Full time
+1170,17500,27500,São Paulo,Brazil,Male,06/02/2022,Research & Development,Full time
+1171,27000,37000,Berlin,Germany,Male,06/03/2022,Research & Development,Full time
+1175,45000,55000,Berlin,Germany,Male,20/03/2022,Research & Development,Full time
+1180,17500,27500,Lima,Peru,Diverse,09/03/2022,Research & Development,Full time
+1182,23333,33333,Lima,Peru,Diverse,16/03/2022,Research & Development,Full time
+1183,78000,88000,Lithuania,Lithuania,Diverse,02/04/2022,Research & Development,Full time
+1184,18000,28000,São Paulo,Brazil,Diverse,12/03/2022,Research & Development,Full time
+1230,152000,162000,Berlin,Germany,Female,03/11/2012,Business Development,Full time
+1232,79000,89000,Berlin,Germany,Male,02/02/2013,Business Development,Full time
+1238,31920,41920,Berlin,Germany,Female,13/12/2014,Business Development,Part time
+1241,58000,68000,Berlin,Germany,Male,11/10/2015,Business Development,Full time
+1245,78000,88000,Berlin,Germany,Male,21/09/2014,Business Development,Full time
+1246,58000,68000,Berlin,Germany,Male,20/07/2014,Business Development,Full time
+1247,160000,170000,Berlin,Germany,Male,20/09/2015,Business Development,Full time
+1248,48000,58000,Berlin,Germany,Female,06/06/2016,Business Development,Full time
+1249,34700,44700,Berlin,Germany,Male,06/08/2016,Business Development,Full time
+1250,26025,36025,Berlin,Germany,Male,13/08/2016,Business Development,Part time
+1251,182000,192000,Amsterdam,Netherlands,Male,29/03/2014,Business Development,Full time
+1252,58000,68000,Berlin,Germany,Female,29/10/2016,Business Development,Full time
+1253,39400,49400,Berlin,Germany,Male,06/11/2016,Business Development,Full time
+1258,70350,80350,Berlin,Germany,Male,08/04/2017,Business Development,Full time
+1259,60000,70000,Berlin,Germany,Male,10/04/2017,Business Development,Full time
+1260,47000,57000,Berlin,Germany,Male,06/05/2017,Business Development,Full time
+1261,36400,46400,Berlin,Germany,Male,20/05/2017,Business Development,Full time
+1264,65000,75000,Berlin,Germany,Male,05/08/2017,Business Development,Full time
+1267,48000,58000,Berlin,Germany,Female,02/09/2017,Business Development,Full time
+1268,58000,68000,Berlin,Germany,Male,23/09/2017,Business Development,Full time
+1273,39400,49400,Berlin,Germany,Male,21/10/2017,Business Development,Full time
+1277,41000,51000,Berlin,Germany,Female,20/11/2017,Business Development,Full time
+1281,42600,52600,Berlin,Germany,Female,09/12/2017,Business Development,Full time
+1284,45000,55000,Berlin,Germany,Female,23/12/2017,Business Development,Full time
+1289,42000,52000,Berlin,Germany,Female,20/01/2018,Business Development,Full time
+1292,36400,46400,Berlin,Germany,Male,06/02/2018,Business Development,Full time
+1293,42600,52600,Berlin,Germany,Male,20/02/2018,Business Development,Full time
+1294,38750,48750,Berlin,Germany,Male,20/02/2018,Business Development,Full time
+1298,42600,52600,Berlin,Germany,Female,20/03/2018,Business Development,Full time
+1300,36400,46400,Berlin,Germany,Male,21/04/2018,Business Development,Full time
+1301,38750,48750,Berlin,Germany,Male,07/05/2018,Business Development,Full time
+1302,37500,47500,Berlin,Germany,Female,07/05/2018,Business Development,Full time
+1309,39400,49400,Berlin,Germany,Female,06/06/2018,Business Development,Full time
+1310,57500,67500,Berlin,Germany,Female,06/06/2018,Business Development,Full time
+1311,61600,71600,Berlin,Germany,Female,06/06/2018,Business Development,Full time
+1312,47000,57000,Berlin,Germany,Female,20/06/2018,Business Development,Full time
+1313,32700,42700,Berlin,Germany,Female,06/06/2018,Business Development,Full time
+1314,39000,49000,Berlin,Germany,Male,06/06/2018,Business Development,Full time
+1315,38000,48000,Berlin,Germany,Male,20/07/2018,Business Development,Full time
+1316,42000,52000,Berlin,Germany,Female,20/07/2018,Business Development,Full time
+1317,90000,100000,Dublin,Ireland,Male,06/08/2018,Business Development,Full time
+1318,45000,55000,Berlin,Germany,Male,06/08/2018,Business Development,Full time
+1319,42600,52600,Berlin,Germany,Female,20/08/2018,Business Development,Full time
+1322,35500,45500,Berlin,Germany,Male,06/09/2018,Business Development,Full time
+1323,33500,43500,Berlin,Germany,Male,06/09/2018,Business Development,Full time
+1324,36500,46500,Berlin,Germany,Male,06/09/2018,Business Development,Full time
+1325,31320,41320,Amsterdam,Netherlands,Male,06/09/2018,Business Development,Part time
+1327,34500,44500,Berlin,Germany,Female,06/10/2018,Business Development,Full time
+1328,42600,52600,Berlin,Germany,Male,20/10/2018,Business Development,Full time
+1329,89000,99000,Berlin,Germany,Female,20/10/2018,Business Development,Full time
+1330,30300,40300,Berlin,Germany,Male,20/10/2018,Business Development,Full time
+1332,17812,27812,Berlin,Germany,Female,06/11/2018,Business Development,Part time
+1333,55000,65000,Berlin,Germany,Female,06/11/2018,Business Development,Full time
+1334,24525,34525,Berlin,Germany,Male,06/11/2018,Business Development,Part time
+1335,90000,100000,Berlin,Germany,Female,06/11/2018,Business Development,Full time
+1336,36400,46400,Berlin,Germany,Female,06/11/2018,Business Development,Full time
+1338,52000,62000,Berlin,Germany,Male,20/11/2018,Business Development,Full time
+1339,32300,42300,Berlin,Germany,Male,20/11/2018,Business Development,Full time
+1341,17072,27072,Amsterdam,Netherlands,Female,16/09/2020,Business Development,Part time
+1342,130000,140000,Berlin,Germany,Female,06/12/2018,Business Development,Full time
+1343,39000,49000,Berlin,Germany,Male,20/01/2019,Business Development,Full time
+1344,59000,69000,Berlin,Germany,Female,06/12/2018,Business Development,Full time
+1345,42600,52600,Berlin,Germany,Male,20/01/2019,Business Development,Full time
+1346,30300,40300,Berlin,Germany,Male,11/01/2019,Business Development,Full time
+1347,34500,44500,Berlin,Germany,Male,11/01/2019,Business Development,Full time
+1348,62000,72000,London,United Kingdom,Male,12/01/2019,Business Development,Full time
+1349,34200,44200,Berlin,Germany,Male,25/01/2019,Business Development,Full time
+1350,45000,55000,Berlin,Germany,Female,25/01/2019,Business Development,Full time
+1352,36400,46400,Berlin,Germany,Male,28/02/2019,Business Development,Full time
+1353,68000,78000,Berlin,Germany,Female,11/02/2019,Business Development,Full time
+1354,34500,44500,Berlin,Germany,Female,25/02/2019,Business Development,Full time
+1355,34200,44200,Berlin,Germany,Male,25/02/2019,Business Development,Full time
+1356,46000,56000,Berlin,Germany,Male,11/03/2019,Business Development,Full time
+1357,80000,90000,Berlin,Germany,Male,11/04/2019,Business Development,Full time
+1358,34500,44500,Berlin,Germany,Male,11/03/2019,Business Development,Full time
+1359,32700,42700,Berlin,Germany,Female,11/03/2019,Business Development,Full time
+1360,36400,46400,Berlin,Germany,Female,11/04/2019,Business Development,Full time
+1361,29280,39280,Amsterdam,Netherlands,Male,01/03/2019,Business Development,Part time
+1362,34500,44500,Berlin,Germany,Male,28/03/2019,Business Development,Full time
+1363,94000,104000,Berlin,Germany,Female,25/05/2019,Business Development,Full time
+1365,35700,45700,Amsterdam,Netherlands,Male,28/03/2019,Business Development,Full time
+1366,30300,40300,Berlin,Germany,Female,25/04/2019,Business Development,Full time
+1367,36400,46400,Berlin,Germany,Male,11/04/2019,Business Development,Full time
+1368,42600,52600,Berlin,Germany,Male,11/04/2019,Business Development,Full time
+1369,40000,50000,Berlin,Germany,Female,11/04/2019,Business Development,Full time
+1371,52000,62000,Berlin,Germany,Female,25/05/2019,Business Development,Full time
+1373,39000,49000,Berlin,Germany,Female,26/04/2019,Business Development,Full time
+1374,32300,42300,Berlin,Germany,Male,11/05/2019,Business Development,Full time
+1375,40000,50000,Berlin,Germany,Female,11/05/2019,Business Development,Full time
+1376,32300,42300,Berlin,Germany,Male,25/05/2019,Business Development,Full time
+1377,32300,42300,Berlin,Germany,Male,25/05/2019,Business Development,Full time
+1378,36500,46500,Berlin,Germany,Female,25/05/2019,Business Development,Full time
+1379,32700,42700,Berlin,Germany,Female,25/05/2019,Business Development,Full time
+1380,32700,42700,Berlin,Germany,Male,25/05/2019,Business Development,Full time
+1381,68000,78000,Berlin,Germany,Male,25/05/2019,Business Development,Full time
+1382,34500,44500,Berlin,Germany,Male,11/07/2019,Business Development,Full time
+1385,34200,44200,Berlin,Germany,Male,11/07/2019,Business Development,Full time
+1386,35000,45000,Berlin,Germany,Male,11/07/2019,Business Development,Full time
+1387,39000,49000,Berlin,Germany,Male,11/07/2019,Business Development,Full time
+1388,32700,42700,Berlin,Germany,Female,11/08/2019,Business Development,Full time
+1389,94000,104000,Berlin,Germany,Female,25/09/2019,Business Development,Full time
+1390,32300,42300,Berlin,Germany,Female,25/07/2019,Business Development,Full time
+1391,34500,44500,Berlin,Germany,Female,11/08/2019,Business Development,Full time
+1392,120000,130000,Berlin,Germany,Female,11/08/2019,Business Development,Full time
+1397,30300,40300,Berlin,Germany,Diverse,25/08/2019,Business Development,Full time
+1398,67725,77725,Berlin,Germany,Male,25/08/2019,Business Development,Full time
+1399,28500,38500,Berlin,Germany,Male,25/08/2019,Business Development,Full time
+1400,33500,43500,Berlin,Germany,Female,25/08/2019,Business Development,Full time
+1401,60000,70000,Berlin,Germany,Female,25/08/2019,Business Development,Full time
+1402,68888,78888,Berlin,Germany,Female,25/09/2019,Business Development,Full time
+1403,32300,42300,Berlin,Germany,Male,11/09/2019,Business Development,Full time
+1404,19380,29380,Berlin,Germany,Female,11/09/2019,Business Development,Part time
+1405,32300,42300,Berlin,Germany,Female,11/09/2019,Business Development,Full time
+1406,73000,83000,Berlin,Germany,Female,11/09/2019,Business Development,Full time
+1407,32700,42700,Berlin,Germany,Female,11/09/2019,Business Development,Full time
+1408,35000,45000,Berlin,Germany,Female,11/09/2019,Business Development,Full time
+1409,34500,44500,Berlin,Germany,Male,11/09/2019,Business Development,Full time
+1410,32700,42700,Berlin,Germany,Female,25/09/2019,Business Development,Full time
+1411,79000,89000,Berlin,Germany,Female,11/10/2019,Business Development,Full time
+1412,34200,44200,Berlin,Germany,Male,11/10/2019,Business Development,Full time
+1414,67000,77000,Berlin,Germany,Male,25/09/2019,Business Development,Full time
+1416,25125,35125,Berlin,Germany,Male,11/10/2019,Business Development,Part time
+1417,30300,40300,Berlin,Germany,Male,11/10/2019,Business Development,Full time
+1418,30300,40300,Berlin,Germany,Female,11/10/2019,Business Development,Full time
+1420,32500,42500,Berlin,Germany,Male,11/10/2019,Business Development,Full time
+1421,55000,65000,Berlin,Germany,Female,25/10/2019,Business Development,Full time
+1425,39050,49050,Berlin,Germany,Female,11/11/2019,Business Development,Part time
+1426,40000,50000,London,United Kingdom,Male,11/11/2019,Business Development,Full time
+1433,44000,54000,Berlin,Germany,Male,11/12/2019,Business Development,Full time
+1437,45000,55000,Berlin,Germany,Female,11/10/2020,Business Development,Full time
+1438,55000,65000,Berlin,Germany,Male,11/01/2020,Business Development,Full time
+1439,44000,54000,Amsterdam,Netherlands,Female,12/12/2019,Business Development,Full time
+1443,35500,45500,Berlin,Germany,Female,11/01/2020,Business Development,Full time
+1444,34500,44500,Berlin,Germany,Female,11/01/2020,Business Development,Full time
+1445,30300,40300,Berlin,Germany,Female,25/01/2020,Business Development,Full time
+1446,77500,87500,Berlin,Germany,Male,25/01/2020,Business Development,Full time
+1447,31000,41000,Berlin,Germany,Female,25/01/2020,Business Development,Full time
+1454,32300,42300,Berlin,Germany,Female,25/01/2020,Business Development,Full time
+1460,21375,31375,Berlin,Germany,Male,11/02/2020,Business Development,Part time
+1461,32700,42700,Berlin,Germany,Male,11/02/2020,Business Development,Full time
+1462,33500,43500,Berlin,Germany,Male,11/02/2020,Business Development,Full time
+1463,33000,43000,Berlin,Germany,Female,11/02/2020,Business Development,Full time
+1464,32700,42700,Amsterdam,Netherlands,Male,07/02/2020,Business Development,Full time
+1465,33500,23500,Berlin,Germany,Female,25/02/2020,Business Development,Full time
+1466,60000,50000,Berlin,Germany,Female,11/02/2020,Business Development,Full time
+1467,70620,60620,Berlin,Germany,Male,11/02/2020,Business Development,Full time
+1468,40000,30000,Berlin,Germany,Female,11/02/2020,Business Development,Full time
+1479,56000,46000,Berlin,Germany,Female,15/02/2020,Business Development,Full time
+1480,72080,62080,Berlin,Germany,Female,11/04/2020,Business Development,Full time
+1482,28500,18500,Berlin,Germany,Female,25/02/2020,Business Development,Full time
+1483,34000,24000,Berlin,Germany,Female,25/02/2020,Business Development,Full time
+1491,39000,29000,Berlin,Germany,Male,25/03/2020,Business Development,Full time
+1493,38000,28000,Berlin,Germany,Male,11/03/2020,Business Development,Full time
+1494,19765,9765,Amsterdam,Netherlands,Male,05/03/2020,Business Development,Part time
+1496,49000,39000,London,United Kingdom,Male,24/02/2020,Business Development,Full time
+1498,56710,46710,Berlin,Germany,Female,11/03/2020,Business Development,Full time
+1503,30300,20300,Berlin,Germany,Male,25/03/2020,Business Development,Full time
+1504,72000,62000,Berlin,Germany,Female,11/04/2020,Business Development,Full time
+1505,85000,75000,Berlin,Germany,Male,25/03/2020,Business Development,Full time
+1506,60885,50885,Berlin,Germany,Female,25/03/2020,Business Development,Full time
+1507,85000,75000,Berlin,Germany,Female,25/03/2020,Business Development,Full time
+1508,75000,65000,Berlin,Germany,Male,25/03/2020,Business Development,Full time
+1509,30300,20300,Berlin,Germany,Female,11/04/2020,Business Development,Full time
+1510,79000,69000,Berlin,Germany,Female,25/03/2020,Business Development,Full time
+1511,100280,90280,Berlin,Germany,Female,11/04/2020,Business Development,Full time
+1518,58000,48000,Boulder,United States of America,Diverse,26/03/2020,Business Development,Full time
+1519,74000,64000,Berlin,Germany,Male,11/04/2020,Business Development,Full time
+1520,40800,30800,Berlin,Germany,Female,11/04/2020,Business Development,Full time
+1521,63000,53000,Berlin,Germany,Female,25/04/2020,Business Development,Full time
+1528,78000,68000,Berlin,Germany,Female,23/04/2020,Business Development,Full time
+1529,44000,34000,Berlin,Germany,Female,11/04/2020,Business Development,Full time
+1531,63000,53000,Boulder,United States of America,Female,20/06/2019,Business Development,Full time
+1532,48000,38000,Berlin,Germany,Female,21/05/2020,Business Development,Full time
+1533,70000,60000,Berlin,Germany,Male,11/06/2020,Business Development,Full time
+1534,145000,135000,Boulder,United States of America,Male,11/06/2020,Business Development,Full time
+1535,67000,57000,Boulder,United States of America,Female,11/06/2020,Business Development,Full time
+1536,100000,90000,Berlin,Germany,Female,11/08/2020,Business Development,Full time
+1537,51000,41000,Berlin,Germany,Female,11/12/2019,Business Development,Full time
+1539,32700,22700,Berlin,Germany,Male,11/09/2020,Business Development,Full time
+1541,22800,12800,Berlin,Germany,Female,11/09/2020,Business Development,Part time
+1542,50000,40000,Boulder,United States of America,Female,15/08/2019,Business Development,Full time
+1544,68000,58000,Berlin,Germany,Male,11/11/2020,Business Development,Full time
+1546,32700,22700,Berlin,Germany,Female,25/09/2020,Business Development,Full time
+1548,30300,20300,Berlin,Germany,Male,25/09/2020,Business Development,Full time
+1549,30300,20300,Berlin,Germany,Female,25/09/2020,Business Development,Full time
+1550,30300,20300,Berlin,Germany,Female,25/09/2020,Business Development,Full time
+1551,30300,20300,Berlin,Germany,Female,11/10/2020,Business Development,Full time
+1552,27000,17000,Berlin,Germany,Female,11/10/2020,Business Development,Full time
+1553,30300,20300,Berlin,Germany,Female,11/10/2020,Business Development,Full time
+1554,65000,55000,Berlin,Germany,Female,25/10/2020,Business Development,Full time
+1555,28500,18500,Berlin,Germany,Female,25/10/2020,Business Development,Full time
+1556,27000,17000,Berlin,Germany,Female,25/10/2020,Business Development,Full time
+1559,30300,20300,Berlin,Germany,Female,11/11/2020,Business Development,Full time
+1560,32496,22496,Berlin,Germany,Female,11/11/2020,Business Development,Full time
+1561,28500,18500,Berlin,Germany,Female,11/11/2020,Business Development,Full time
+1562,126000,116000,Berlin,Germany,Male,11/11/2020,Business Development,Full time
+1563,32700,22700,Berlin,Germany,Female,11/11/2020,Business Development,Full time
+1564,63000,53000,Boulder,United States of America,Male,05/11/2020,Business Development,Full time
+1565,54000,44000,Berlin,Germany,Male,11/11/2020,Business Development,Full time
+1566,42000,32000,Berlin,Germany,Male,11/11/2020,Business Development,Full time
+1571,97000,87000,Berlin,Germany,Male,25/11/2020,Business Development,Full time
+1572,45000,35000,Berlin,Germany,Female,25/11/2020,Business Development,Full time
+1573,27000,17000,Berlin,Germany,Male,25/11/2020,Business Development,Full time
+1574,82000,72000,Berlin,Germany,Female,25/11/2020,Business Development,Full time
+1575,68000,58000,Boulder,United States of America,Female,26/11/2020,Business Development,Full time
+1576,78000,68000,Boulder,United States of America,Male,26/11/2020,Business Development,Full time
+1577,61000,51000,Boulder,United States of America,Female,26/11/2020,Business Development,Full time
+1578,58000,48000,Boulder,United States of America,Male,26/11/2020,Business Development,Full time
+1579,105000,95000,Berlin,Germany,Male,11/12/2020,Business Development,Full time
+1580,57500,47500,Berlin,Germany,Female,11/12/2020,Business Development,Full time
+1581,65000,55000,Berlin,Germany,Female,11/12/2020,Business Development,Full time
+1583,100000,90000,Boulder,United States of America,Female,13/07/2019,Business Development,Full time
+1584,127500,117500,Boulder,United States of America,Female,31/10/2019,Business Development,Full time
+1585,40572,30572,São Paulo,Brazil,Male,17/05/2015,Business Development,Full time
+1586,19952,9952,São Paulo,Brazil,Female,25/07/2015,Business Development,Full time
+1589,20500,10500,São Paulo,Brazil,Male,21/01/2016,Business Development,Full time
+1593,17985,7985,São Paulo,Brazil,Female,25/09/2014,Business Development,Full time
+1621,66755,56755,São Paulo,Brazil,Male,11/06/2017,Business Development,Full time
+1641,18530,8530,São Paulo,Brazil,Male,15/09/2017,Business Development,Full time
+1644,28885,18885,São Paulo,Brazil,Male,28/09/2017,Business Development,Full time
+1678,32615,22615,São Paulo,Brazil,Female,26/05/2018,Business Development,Full time
+1839,17500,7500,São Paulo,Brazil,Female,27/06/2019,Business Development,Full time
+1845,20000,10000,São Paulo,Brazil,Female,15/08/2019,Business Development,Full time
+1858,125000,115000,Boulder,United States of America,Male,26/09/2019,Business Development,Full time
+1866,19167,9167,São Paulo,Brazil,Female,11/10/2019,Business Development,Full time
+1869,17215,7215,São Paulo,Brazil,Male,24/10/2019,Business Development,Full time
+1931,19511,9511,São Paulo,Brazil,Female,27/02/2020,Business Development,Full time
+1941,23146,13146,São Paulo,Brazil,Female,12/03/2020,Business Development,Full time
+1943,41883,31883,São Paulo,Brazil,Male,26/03/2020,Business Development,Full time
+1992,40475,30475,São Paulo,Brazil,Female,29/10/2020,Business Development,Full time
+2034,65000,55000,Berlin,Germany,Male,11/01/2021,Business Development,Full time
+2035,69000,59000,Berlin,Germany,Male,25/01/2021,Business Development,Full time
+2036,105000,95000,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2037,60000,50000,Berlin,Germany,Male,11/01/2021,Business Development,Full time
+2038,72000,62000,Amsterdam,Netherlands,Male,11/01/2021,Business Development,Full time
+2039,23040,13040,Amsterdam,Netherlands,Male,25/12/2020,Business Development,Part time
+2042,75000,65000,Berlin,Germany,Male,11/02/2021,Business Development,Full time
+2043,47000,37000,Berlin,Germany,Female,11/01/2021,Business Development,Full time
+2044,43500,33500,Berlin,Germany,Male,25/01/2021,Business Development,Full time
+2045,55000,45000,Berlin,Germany,Female,11/01/2021,Business Development,Full time
+2046,77500,67500,Berlin,Germany,Male,25/01/2021,Business Development,Full time
+2047,310000,300000,Boulder,United States of America,Male,14/01/2021,Business Development,Full time
+2048,32700,22700,Berlin,Germany,Female,25/01/2021,Business Development,Full time
+2049,73000,63000,Berlin,Germany,Male,25/01/2021,Business Development,Full time
+2050,21375,11375,Berlin,Germany,Male,11/02/2021,Business Development,Part time
+2052,22800,12800,Berlin,Germany,Female,11/02/2021,Business Development,Part time
+2053,80000,70000,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2054,28500,18500,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2055,22800,12800,Berlin,Germany,Male,11/02/2021,Business Development,Part time
+2056,28500,18500,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2057,30000,20000,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2058,28500,18500,Berlin,Germany,Male,11/02/2021,Business Development,Full time
+2059,62000,52000,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2060,68000,58000,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2061,60000,50000,Berlin,Germany,Male,11/02/2021,Business Development,Full time
+2062,67500,57500,Berlin,Germany,Female,11/02/2021,Business Development,Full time
+2063,95000,85000,Boulder,United States of America,Female,04/02/2021,Business Development,Full time
+2064,27000,17000,Berlin,Germany,Male,11/02/2021,Business Development,Full time
+2065,24035,14035,São Paulo,Brazil,Male,11/02/2021,Business Development,Full time
+2066,39710,29710,São Paulo,Brazil,Female,11/02/2021,Business Development,Full time
+2068,28500,18500,Berlin,Germany,Female,25/02/2021,Business Development,Full time
+2079,50000,40000,Boulder,United States of America,Male,11/02/2021,Business Development,Full time
+2080,50000,40000,Boulder,United States of America,Female,11/02/2021,Business Development,Full time
+2081,28500,18500,Berlin,Germany,Male,25/02/2021,Business Development,Full time
+2082,90200,80200,Berlin,Germany,Male,01/04/2021,Business Development,Full time
+2083,48000,38000,Berlin,Germany,Female,11/03/2021,Business Development,Full time
+2084,27000,17000,Berlin,Germany,Male,11/03/2021,Business Development,Full time
+2085,28500,18500,Berlin,Germany,Female,11/03/2021,Business Development,Full time
+2086,60885,50885,Berlin,Germany,Female,11/03/2021,Business Development,Full time
+2087,55000,45000,Berlin,Germany,Female,11/03/2021,Business Development,Full time
+2088,27000,17000,Berlin,Germany,Male,11/03/2021,Business Development,Full time
+2089,17000,7000,São Paulo,Brazil,Female,28/02/2021,Business Development,Full time
+2104,32300,22300,Berlin,Germany,Male,11/03/2021,Business Development,Full time
+2105,47000,37000,Berlin,Germany,Male,11/03/2021,Business Development,Full time
+2106,51700,41700,Berlin,Germany,Male,11/03/2021,Business Development,Full time
+2107,60420,50420,Berlin,Germany,Female,11/03/2021,Business Development,Full time
+2108,91350,81350,Berlin,Germany,Female,11/03/2021,Business Development,Full time
+2109,75000,65000,Berlin,Germany,Male,11/03/2021,Business Development,Full time
+2110,55000,45000,Berlin,Germany,Female,11/03/2021,Business Development,Full time
+2111,25200,15200,São Paulo,Brazil,Female,11/03/2021,Business Development,Full time
+2123,84000,74000,London,United Kingdom,Male,11/03/2021,Business Development,Full time
+2126,28500,18500,Berlin,Germany,Male,11/04/2021,Business Development,Full time
+2127,28500,18500,Berlin,Germany,Male,11/04/2021,Business Development,Full time
+2131,75000,65000,Berlin,Germany,Male,11/04/2021,Business Development,Full time
+2132,53000,43000,Berlin,Germany,Female,11/04/2021,Business Development,Full time
+2223,28500,18500,Berlin,Germany,Female,11/04/2021,Business Development,Full time
+2225,70000,60000,Berlin,Germany,Female,11/04/2021,Business Development,Full time
+2226,200000,190000,Berlin,Germany,Female,11/04/2021,Business Development,Full time
+2227,55000,45000,Berlin,Germany,Male,11/04/2021,Business Development,Full time
+2228,43500,33500,Berlin,Germany,Female,11/04/2021,Business Development,Full time
+2230,75000,65000,Berlin,Germany,Male,25/04/2021,Business Development,Full time
+2231,27243,17243,São Paulo,Brazil,Male,15/04/2021,Business Development,Full time
+2233,46350,36350,São Paulo,Brazil,Female,15/04/2021,Business Development,Full time
+2245,53000,43000,Berlin,Germany,Female,11/05/2021,Business Development,Full time
+2246,70000,60000,Boulder,United States of America,Diverse,18/04/2021,Business Development,Full time
+2247,41000,31000,Berlin,Germany,Female,11/06/2021,Business Development,Full time
+2260,19055,9055,São Paulo,Brazil,Female,22/04/2021,Business Development,Full time
+2264,75000,65000,Boulder,United States of America,Female,29/04/2021,Business Development,Full time
+2265,88000,78000,Boulder,United States of America,Male,25/02/2021,Business Development,Full time
+2271,65000,55000,Berlin,Germany,Female,11/05/2021,Business Development,Full time
+2272,44000,34000,Copenhagen,Denmark,Male,11/05/2021,Business Development,Full time
+2273,82000,72000,London,United Kingdom,Female,25/06/2021,Business Development,Full time
+2275,38000,28000,Berlin,Germany,Female,11/05/2021,Business Development,Full time
+2276,38000,28000,Berlin,Germany,Female,11/05/2021,Business Development,Full time
+2280,73000,63000,Berlin,Germany,Female,25/06/2021,Business Development,Full time
+2281,58000,48000,Boulder,United States of America,Female,20/05/2021,Business Development,Full time
+2282,65000,55000,Berlin,Germany,Male,11/06/2021,Business Development,Full time
+2283,40000,30000,Berlin,Germany,Female,11/06/2021,Business Development,Full time
+2299,300000,290000,Berlin,Germany,Male,14/10/2021,Business Development,Full time
+2300,38000,28000,Berlin,Germany,Female,11/09/2021,Business Development,Full time
+2304,27000,17000,Remote SumUp Limited,Germany,Female,11/08/2021,Business Development,Full time
+2305,75000,65000,Berlin,Germany,Male,25/08/2021,Business Development,Full time
+2310,27000,17000,Berlin,Germany,Female,11/09/2021,Business Development,Full time
+2315,27000,17000,Berlin,Germany,Male,11/09/2021,Business Development,Full time
+2319,27000,17000,Berlin,Germany,Female,11/09/2021,Business Development,Full time
+2322,27000,17000,Berlin,Germany,Female,11/09/2021,Business Development,Full time
+2324,27000,17000,Berlin,Germany,Diverse,11/10/2021,Business Development,Full time
+2326,55000,45000,Boulder,United States of America,Male,09/09/2021,Business Development,Full time
+2327,58000,48000,Boulder,United States of America,Male,09/09/2021,Business Development,Full time
+2328,39520,29520,Boulder,United States of America,Male,09/09/2021,Business Development,Full time
+2342,21000,11000,Berlin,Germany,Female,11/09/2021,Business Development,Full time
+2343,70000,60000,Boulder,United States of America,Male,24/09/2021,Business Development,Full time
+2344,110000,100000,Boulder,United States of America,Female,23/09/2021,Business Development,Full time
+2345,27000,17000,Berlin,Germany,Male,11/10/2021,Business Development,Full time
+2350,27000,17000,Berlin,Germany,Female,11/10/2021,Business Development,Full time
+2351,27000,17000,Berlin,Germany,Female,11/10/2021,Business Development,Full time
+2352,50000,40000,Berlin,Germany,Female,11/10/2021,Business Development,Full time
+2353,27000,17000,Berlin,Germany,Male,11/10/2021,Business Development,Full time
+2355,27000,17000,Berlin,Germany,Female,11/10/2021,Business Development,Full time
+2356,27000,17000,Berlin,Germany,Female,11/11/2021,Business Development,Full time
+2357,27000,17000,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2358,27000,17000,Berlin,Germany,Female,11/10/2021,Business Development,Full time
+2367,110000,100000,Boulder,United States of America,Female,14/10/2021,Business Development,Full time
+2368,27000,17000,Berlin,Germany,Female,11/10/2021,Business Development,Full time
+2372,75000,65000,Remote Sumup Services,Germany,Male,11/11/2021,Business Development,Full time
+2373,58500,48500,Boulder,United States of America,Male,28/10/2021,Business Development,Full time
+2379,62000,52000,Berlin,Germany,Female,25/11/2021,Business Development,Full time
+2380,27000,17000,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2386,68000,58000,Berlin,Germany,Male,11/02/2022,Business Development,Full time
+2400,39520,29520,Boulder,United States of America,Diverse,28/10/2021,Business Development,Full time
+2401,41600,31600,Boulder,United States of America,Male,28/10/2021,Business Development,Full time
+2402,55000,45000,Berlin,Germany,Female,11/11/2021,Business Development,Full time
+2403,40000,30000,Berlin,Germany,Male,11/12/2021,Business Development,Full time
+2407,27000,17000,Berlin,Germany,Female,11/11/2021,Business Development,Full time
+2408,73000,63000,Berlin,Germany,Female,25/01/2022,Business Development,Full time
+2409,27000,17000,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2411,27000,17000,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2412,27000,17000,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2413,27000,17000,Berlin,Germany,Female,11/11/2021,Business Development,Full time
+2414,27000,17000,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2417,27000,17000,Berlin,Germany,Female,11/11/2021,Business Development,Full time
+2418,27000,17000,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2423,27000,17000,Berlin,Germany,Female,11/11/2021,Business Development,Full time
+2424,32700,22700,Berlin,Germany,Male,11/11/2021,Business Development,Full time
+2430,34000,24000,Berlin,Germany,Male,11/01/2022,Business Development,Full time
+2431,145000,135000,Boulder,United States of America,Diverse,11/11/2021,Business Development,Full time
+2432,25000,15000,São Paulo,Brazil,Male,26/11/2021,Business Development,Full time
+2435,68000,58000,Berlin,Germany,Male,11/12/2021,Business Development,Full time
+2438,27000,17000,Berlin,Germany,Female,25/11/2021,Business Development,Full time
+2440,26000,16000,São Paulo,Brazil,Diverse,11/12/2021,Business Development,Full time
+2442,50000,40000,Berlin,Germany,Male,11/03/2022,Business Development,Full time
+2448,260000,250000,Dublin,Ireland,Male,11/01/2022,Business Development,Full time
+2449,50000,40000,Boulder,United States of America,Female,09/12/2021,Business Development,Full time
+2450,41600,31600,Boulder,United States of America,Diverse,09/12/2021,Business Development,Full time
+2451,27000,17000,Berlin,Germany,Male,11/01/2022,Business Development,Full time
+2452,50000,40000,Boulder,United States of America,Male,16/12/2021,Business Development,Full time
+2453,125000,115000,Boulder,United States of America,Male,23/12/2021,Business Development,Full time
+2456,80000,70000,Berlin,Germany,Male,11/03/2022,Business Development,Full time
+2457,27000,17000,Berlin,Germany,Female,11/01/2022,Business Development,Full time
+2458,27000,17000,Berlin,Germany,Female,11/01/2022,Business Development,Full time
+2459,53333,43333,Copenhagen,Denmark,Male,11/01/2022,Business Development,Full time
+2460,95000,85000,Boulder,United States of America,Female,30/12/2021,Business Development,Full time
+2461,65000,55000,Berlin,Germany,Female,11/02/2022,Business Development,Full time
+2464,24000,14000,Berlin,Germany,Male,11/02/2022,Business Development,Full time
+2465,24252,14252,Amsterdam,Netherlands,Male,16/01/2022,Business Development,Part time
+2475,55000,45000,Boulder,United States of America,Female,28/01/2022,Business Development,Full time
+2477,27000,17000,Berlin,Germany,Female,11/02/2022,Business Development,Full time
+2478,27000,17000,Berlin,Germany,Male,11/02/2022,Business Development,Full time
+2480,27000,17000,Berlin,Germany,Female,11/02/2022,Business Development,Full time
+2481,63000,53000,Berlin,Germany,Female,11/03/2022,Business Development,Full time
+2486,65000,55000,Boulder,United States of America,Female,11/02/2022,Business Development,Full time
+2487,19800,9800,Boulder,United States of America,Female,17/02/2022,Business Development,Part time
+2489,27000,17000,Berlin,Germany,Female,11/03/2022,Business Development,Full time
+2491,27000,17000,Berlin,Germany,Male,11/03/2022,Business Development,Full time
+2492,22080,12080,Amsterdam,Netherlands,Male,11/03/2022,Business Development,Full time
+2493,17000,7000,São Paulo,Brazil,Diverse,24/02/2022,Business Development,Full time
+2495,32700,22700,Berlin,Germany,Female,11/03/2022,Business Development,Full time
+2498,35999,25999,Boulder,United States of America,Female,10/03/2022,Business Development,Full time
+2499,35999,25999,Boulder,United States of America,Female,10/03/2022,Business Development,Full time
+2500,27000,17000,Berlin,Germany,Female,11/03/2022,Business Development,Full time
+2503,27000,17000,Berlin,Germany,Female,11/03/2022,Business Development,Full time
+2504,27000,17000,Berlin,Germany,Female,11/03/2022,Business Development,Full time
+2505,27000,17000,Berlin,Germany,Female,11/03/2022,Business Development,Full time
+2506,27000,17000,Berlin,Germany,Diverse,11/03/2022,Business Development,Full time
+2507,27000,17000,Berlin,Germany,Male,11/03/2022,Business Development,Full time
+2509,300000,290000,Massachusetts,United States of America,Male,24/03/2022,Business Development,Full time
+2510,225000,215000,Florida,United States of America,Female,31/03/2022,Business Development,Full time
+2511,160000,150000,Illinois,United States of America,Male,04/10/2012,Business Development,Full time
+2512,85000,75000,Florida,United States of America,Male,25/03/2017,Business Development,Full time
+2513,300000,290000,California - San Francisco,United States of America,Male,13/12/2012,Business Development,Full time
+2514,205000,195000,California - San Francisco,United States of America,Male,08/08/2013,Business Development,Full time
+2515,190000,180000,California - San Francisco,United States of America,Male,20/06/2013,Business Development,Full time
+2516,300000,290000,California - San Francisco,United States of America,Male,10/12/2010,Business Development,Full time
+2517,275000,265000,California - San Francisco,United States of America,Male,10/12/2010,Business Development,Full time
+2518,190000,180000,California - San Francisco,United States of America,Male,28/07/2011,Business Development,Full time
+2519,205000,195000,California - San Francisco,United States of America,Female,31/08/2011,Business Development,Full time
+2520,210000,200000,California - San Francisco,United States of America,Female,11/09/2011,Business Development,Full time
+2521,170000,160000,California - San Francisco,United States of America,Female,13/09/2013,Business Development,Full time
+2522,195700,185700,California - San Francisco,United States of America,Male,26/09/2013,Business Development,Full time
+2524,100000,90000,Texas,United States of America,Male,16/01/2022,Business Development,Full time
+2525,225000,215000,California - San Francisco,United States of America,Female,18/09/2014,Business Development,Full time
+2526,109941,99941,California - San Francisco,United States of America,Female,26/03/2015,Business Development,Full time
+2527,185000,175000,California - San Francisco,United States of America,Male,20/10/2016,Business Development,Full time
+2528,71428,61428,Colorado,United States of America,Male,26/07/2018,Business Development,Full time
+2529,190000,180000,Maine,United States of America,Male,11/02/2016,Business Development,Full time
+2531,85000,75000,Texas - Austin,United States of America,Male,15/03/2012,Business Development,Full time
+2532,110130,100130,California - San Francisco,United States of America,Female,14/04/2016,Business Development,Full time
+2533,190798,180798,California - San Francisco,United States of America,Female,01/03/2019,Business Development,Full time
+2534,129815,119815,Colorado,United States of America,Female,31/10/2013,Business Development,Full time
+2536,165000,155000,California - San Francisco,United States of America,Female,26/05/2016,Business Development,Full time
+2537,140000,130000,Hawaii,United States of America,Male,26/05/2016,Business Development,Full time
+2538,154000,144000,Florida,United States of America,Male,21/07/2016,Business Development,Full time
+2540,85000,75000,Texas,United States of America,Female,18/08/2016,Business Development,Full time
+2541,100000,90000,Colorado,United States of America,Male,01/09/2016,Business Development,Full time
+2542,100000,90000,California,United States of America,Male,15/12/2016,Business Development,Full time
+2543,103000,93000,Georgia,United States of America,Male,14/05/2017,Business Development,Full time
+2544,235000,225000,Texas - Austin,United States of America,Male,21/09/2017,Business Development,Full time
+2545,270000,260000,California - San Francisco,United States of America,Male,05/10/2017,Business Development,Full time
+2546,200000,190000,Massachusetts,United States of America,Female,27/10/2017,Business Development,Full time
+2547,230000,220000,California - San Francisco,United States of America,Female,14/01/2018,Business Development,Full time
+2548,65000,55000,District of Columbia,United States of America,Male,18/02/2018,Business Development,Full time
+2550,85000,75000,Texas - El Paso,United States of America,Male,02/03/2018,Business Development,Full time
+2553,178000,168000,Texas - Austin,United States of America,Male,18/03/2018,Business Development,Full time
+2554,90000,80000,Massachusetts,United States of America,Male,18/03/2018,Business Development,Full time
+2557,69000,59000,Texas - El Paso,United States of America,Female,29/03/2018,Business Development,Full time
+2558,45760,35760,Texas - El Paso,United States of America,Male,15/04/2018,Business Development,Full time
+2561,155000,145000,Texas - El Paso,United States of America,Male,13/05/2018,Business Development,Full time
+2562,55000,45000,Texas - El Paso,United States of America,Male,17/06/2018,Business Development,Full time
+2564,140000,130000,California - San Francisco,United States of America,Male,15/07/2018,Business Development,Full time
+2567,185000,175000,California - San Francisco,United States of America,Female,16/09/2018,Business Development,Full time
+2569,50000,40000,Texas - El Paso,United States of America,Male,11/11/2018,Business Development,Full time
+2570,75000,65000,New Hampshire,United States of America,Male,11/11/2018,Business Development,Full time
+2571,205000,195000,Texas - Austin,United States of America,Male,22/11/2018,Business Development,Full time
+2572,175000,165000,Texas - Austin,United States of America,Male,22/11/2018,Business Development,Full time
+2573,92000,82000,California,United States of America,Male,16/12/2018,Business Development,Full time
+2577,150450,140450,North Carolina,United States of America,Female,13/01/2019,Business Development,Full time
+2580,75000,65000,North Carolina,United States of America,Male,17/03/2019,Business Development,Full time
+2581,41000,31000,Texas - El Paso,United States of America,Male,17/03/2019,Business Development,Full time
+2583,80000,70000,California - San Francisco,United States of America,Male,25/04/2019,Business Development,Full time
+2586,180000,170000,Texas - Austin,United States of America,Male,16/06/2019,Business Development,Full time
+2587,75000,65000,Illinois,United States of America,Female,18/08/2019,Business Development,Full time
+2592,65000,55000,Texas - El Paso,United States of America,Male,17/11/2019,Business Development,Full time
+2593,240000,230000,California - San Francisco,United States of America,Female,26/12/2019,Business Development,Full time
+2594,100000,90000,Indiana,United States of America,Female,19/01/2020,Business Development,Full time
+2595,230000,220000,California - San Francisco,United States of America,Female,25/01/2020,Business Development,Full time
+2600,260000,250000,Indiana,United States of America,Male,15/03/2020,Business Development,Full time
+2601,75000,65000,Texas - El Paso,United States of America,Male,15/03/2020,Business Development,Full time
+2602,63000,53000,Texas - El Paso,United States of America,Male,15/03/2020,Business Development,Full time
+2603,212500,202500,California - San Francisco,United States of America,Male,12/04/2020,Business Development,Full time
+2604,130000,120000,Texas - Austin,United States of America,Female,12/04/2020,Business Development,Full time
+2605,250000,240000,Texas - Austin,United States of America,Male,12/04/2020,Business Development,Full time
+2606,135000,125000,Illinois,United States of America,Male,30/04/2020,Business Development,Full time
+2608,125000,115000,Texas - Austin,United States of America,Male,26/08/2021,Business Development,Full time
+2609,125000,115000,California - San Francisco,United States of America,Female,26/08/2021,Business Development,Full time
+2611,95000,85000,Ohio,United States of America,Male,29/01/2021,Business Development,Full time
+2613,130000,120000,California - San Francisco,United States of America,Male,11/10/2020,Business Development,Full time
+2614,165000,155000,California - San Francisco,United States of America,Male,11/07/2020,Business Development,Full time
+2615,45000,35000,Washington,United States of America,Male,13/09/2020,Business Development,Full time
+2616,200000,190000,California - San Francisco,United States of America,Male,13/09/2020,Business Development,Full time
+2617,200000,190000,California - San Francisco,United States of America,Female,24/09/2020,Business Development,Full time
+2618,75000,65000,California - San Francisco,United States of America,Female,13/12/2020,Business Development,Full time
+2619,137500,127500,California - San Francisco,United States of America,Female,13/12/2020,Business Development,Full time
+2620,84000,74000,Florida,United States of America,Female,17/01/2021,Business Development,Full time
+2623,215250,205250,California - San Francisco,United States of America,Male,25/03/2021,Business Development,Full time
+2624,55000,45000,Georgia,United States of America,Female,25/03/2021,Business Development,Full time
+2625,150000,140000,California - San Francisco,United States of America,Male,27/03/2021,Business Development,Full time
+2626,230000,220000,California - San Francisco,United States of America,Male,11/04/2021,Business Development,Full time
+2627,185000,175000,California - San Francisco,United States of America,Male,11/04/2021,Business Development,Full time
+2629,165000,155000,Texas - Austin,United States of America,Male,29/04/2021,Business Development,Full time
+2630,150000,140000,California - San Francisco,United States of America,Male,10/05/2021,Business Development,Full time
+2633,163000,153000,Washington,United States of America,Female,27/05/2021,Business Development,Full time
+2635,62000,52000,Ohio,United States of America,Female,13/06/2021,Business Development,Full time
+2637,108000,98000,New York,United States of America,Female,13/06/2021,Business Development,Full time
+2638,110000,100000,California - San Francisco,United States of America,Male,24/02/2022,Business Development,Full time
+2639,180000,170000,New York,United States of America,Male,01/07/2021,Business Development,Full time
+2642,132000,122000,California - San Francisco,United States of America,Female,26/08/2021,Business Development,Full time
+2645,185000,175000,California,United States of America,Male,12/09/2021,Business Development,Full time
+2648,133900,123900,Arizona,United States of America,Male,17/10/2021,Business Development,Full time
+2649,108000,98000,California - San Francisco,United States of America,Male,23/09/2021,Business Development,Full time
+2650,180000,170000,North Carolina,United States of America,Male,17/10/2021,Business Development,Full time
+2651,80000,70000,California - San Francisco,United States of America,Male,17/10/2021,Business Development,Full time
+2652,65000,55000,Michigan,United States of America,Female,17/10/2021,Business Development,Full time
+2654,65000,55000,Florida,United States of America,Male,17/10/2021,Business Development,Full time
+2655,65000,55000,Texas,United States of America,Male,17/10/2021,Business Development,Full time
+2656,105000,95000,California,United States of America,Male,17/10/2021,Business Development,Full time
+2657,160000,150000,North Carolina,United States of America,Male,04/11/2021,Business Development,Full time
+2658,190000,180000,Colorado,United States of America,Female,04/11/2021,Business Development,Full time
+2660,120000,110000,Tennessee,United States of America,Female,14/11/2021,Business Development,Full time
+2661,120000,110000,California - San Francisco,United States of America,Female,14/11/2021,Business Development,Full time
+2663,215000,205000,Texas,United States of America,Male,14/11/2021,Business Development,Full time
+2664,65000,55000,Florida,United States of America,Male,14/11/2021,Business Development,Full time
+2665,65000,55000,Tennessee,United States of America,Male,14/11/2021,Business Development,Full time
+2666,120000,110000,Georgia,United States of America,Male,25/11/2021,Business Development,Full time
+2668,150000,140000,California - San Francisco,United States of America,Female,25/11/2021,Business Development,Full time
+2669,65000,55000,Florida,United States of America,Male,12/12/2021,Business Development,Full time
+2670,170000,160000,California - San Francisco,United States of America,Male,12/12/2021,Business Development,Full time
+2671,120000,110000,New York,United States of America,Female,12/12/2021,Business Development,Full time
+2672,65000,55000,Florida,United States of America,Male,12/12/2021,Business Development,Full time
+2673,90000,80000,Texas - Austin,United States of America,Female,12/12/2021,Business Development,Full time
+2675,170000,160000,Washington,United States of America,Male,12/12/2021,Business Development,Full time
+2678,123000,113000,Maryland,United States of America,Male,23/12/2021,Business Development,Full time
+2679,95000,85000,California,United States of America,Female,23/12/2021,Business Development,Full time
+2680,82500,72500,New York,United States of America,Female,23/12/2021,Business Development,Full time
+2684,190000,180000,California,United States of America,Male,16/01/2022,Business Development,Full time
+2685,100000,90000,Colorado,United States of America,Female,16/01/2022,Business Development,Full time
+2686,100000,90000,Tennessee,United States of America,Female,16/01/2022,Business Development,Full time
+2691,105000,95000,New York,United States of America,Female,28/01/2022,Business Development,Full time
+2692,190000,180000,California,United States of America,Male,28/01/2022,Business Development,Full time
+2694,65000,55000,Michigan,United States of America,Female,13/02/2022,Business Development,Full time
+2695,65000,55000,Florida,United States of America,Male,13/02/2022,Business Development,Full time
+2696,65000,55000,Florida,United States of America,Male,13/02/2022,Business Development,Full time
+2698,65000,55000,Texas,United States of America,Male,24/02/2022,Business Development,Full time
+2700,65000,55000,Texas,United States of America,Male,24/02/2022,Business Development,Full time
+2701,65000,55000,Texas,United States of America,Male,24/02/2022,Business Development,Full time
+2702,125000,115000,California,United States of America,Female,31/03/2022,Business Development,Full time
+2703,65000,55000,Florida,United States of America,Female,13/03/2022,Business Development,Full time
+2704,65000,55000,Illinois,United States of America,Female,13/03/2022,Business Development,Full time
+2705,65000,55000,Texas,United States of America,Male,13/03/2022,Business Development,Full time
+2706,65000,55000,Texas - Austin,United States of America,Male,13/03/2022,Business Development,Full time
+2707,65000,55000,Texas,United States of America,Male,13/03/2022,Business Development,Full time
+2708,65000,55000,Wisconsin,United States of America,Male,13/03/2022,Business Development,Full time
+2709,65000,55000,Massachusetts,United States of America,Male,13/03/2022,Business Development,Full time
+2713,185000,175000,California,United States of America,Male,13/03/2022,Business Development,Full time
+2715,120000,110000,California,United States of America,Male,13/03/2022,Business Development,Full time
+2716,185000,175000,California,United States of America,Male,13/03/2022,Business Development,Full time
+2717,200000,190000,North Carolina,United States of America,Male,13/03/2022,Business Development,Full time
+2723,147000,137000,Colorado,United States of America,Female,13/03/2022,Business Development,Full time
+2724,130000,120000,Missouri,United States of America,Female,13/03/2022,Business Development,Full time
+2725,150000,140000,Texas - Austin,United States of America,Female,31/03/2022,Business Development,Full time
+2728,65000,55000,Tennessee,United States of America,Male,31/03/2022,Business Development,Full time
+2729,65000,55000,North Carolina,United States of America,Male,31/03/2022,Business Development,Full time
+2731,185000,175000,Texas,United States of America,Male,31/03/2022,Business Development,Full time
+2732,65000,55000,Massachusetts,United States of America,Male,31/03/2022,Business Development,Full time
+2733,65000,55000,Indiana,United States of America,Male,31/03/2022,Business Development,Full time
+2734,65000,55000,Texas,United States of America,Female,31/03/2022,Business Development,Full time
+2735,65000,55000,Texas,United States of America,Male,31/03/2022,Business Development,Full time
+2736,70000,60000,North Carolina,United States of America,Male,31/03/2022,Business Development,Full time
+2737,65000,55000,Texas,United States of America,Male,31/03/2022,Business Development,Full time
+2738,44000,34000,Boulder,United States of America,Diverse,24/03/2022,Business Development,Full time
+2739,35400,25400,Boulder,United States of America,Female,24/03/2022,Business Development,Full time
+2751,37800,27800,Berlin,Germany,Female,20/04/2017,Expansion,Full time
+2752,52000,42000,Berlin,Germany,Male,31/08/2017,Expansion,Full time
+2753,36000,26000,Berlin,Germany,Male,20/08/2017,Expansion,Full time
+2754,35566,25566,London,United Kingdom,Female,14/08/2020,Expansion,Full time
+2755,46000,36000,Berlin,Germany,Male,11/10/2017,Expansion,Full time
+2756,33990,23990,Copenhagen,Denmark,Female,14/06/2015,Expansion,Full time
+2757,42265,32265,Copenhagen,Denmark,Female,11/05/2017,Expansion,Full time
+2758,44100,34100,Copenhagen,Denmark,Male,09/10/2014,Expansion,Full time
+2759,39500,29500,Copenhagen,Denmark,Female,11/02/2017,Expansion,Full time
+2760,53000,43000,Copenhagen,Denmark,Male,11/12/2016,Expansion,Full time
+2761,65000,55000,Copenhagen,Denmark,Male,11/11/2010,Expansion,Full time
+2762,37800,27800,Berlin,Germany,Male,26/10/2017,Expansion,Full time
+2763,45000,35000,Berlin,Germany,Female,11/02/2018,Expansion,Full time
+2764,64500,54500,Berlin,Germany,Female,25/03/2018,Expansion,Full time
+2765,80000,70000,Berlin,Germany,Male,11/03/2018,Expansion,Full time
+2766,108000,98000,Berlin,Germany,Male,11/04/2018,Expansion,Part time
+2767,37800,27800,Berlin,Germany,Male,11/04/2018,Expansion,Full time
+2768,37800,27800,Berlin,Germany,Male,11/04/2018,Expansion,Full time
+2769,43200,33200,Berlin,Germany,Male,12/05/2018,Expansion,Full time
+2770,90000,80000,Berlin,Germany,Male,03/05/2018,Expansion,Full time
+2771,33500,23500,Berlin,Germany,Male,25/05/2018,Expansion,Full time
+2772,53200,43200,Berlin,Germany,Male,11/07/2018,Expansion,Part time
+2773,42600,32600,Berlin,Germany,Male,26/08/2018,Expansion,Full time
+2774,33500,23500,Berlin,Germany,Male,25/08/2018,Expansion,Full time
+2775,85000,75000,Berlin,Germany,Male,11/10/2018,Expansion,Full time
+2776,37000,27000,Berlin,Germany,Male,25/11/2018,Expansion,Full time
+2777,39400,29400,Berlin,Germany,Female,25/02/2019,Expansion,Full time
+2778,65000,55000,Berlin,Germany,Male,11/03/2019,Expansion,Full time
+2779,53000,43000,Berlin,Germany,Female,11/08/2018,Expansion,Full time
+2784,96407,86407,Berlin,Germany,Male,11/07/2019,Expansion,Full time
+2785,65000,55000,Copenhagen,Denmark,Male,21/02/2019,Expansion,Full time
+2786,33600,23600,Copenhagen,Denmark,Female,11/09/2018,Expansion,Full time
+2787,31000,21000,Copenhagen,Denmark,Female,11/02/2019,Expansion,Full time
+2788,75000,65000,Berlin,Germany,Male,21/06/2019,Expansion,Full time
+2789,79000,69000,Berlin,Germany,Male,12/05/2019,Expansion,Full time
+2790,53000,43000,Copenhagen,Denmark,Male,27/06/2019,Expansion,Full time
+2791,32300,22300,Berlin,Germany,Female,25/07/2019,Expansion,Full time
+2792,30300,20300,Berlin,Germany,Male,11/08/2019,Expansion,Full time
+2794,30240,20240,Berlin,Germany,Male,25/08/2019,Expansion,Full time
+2796,33500,23500,Berlin,Germany,Female,28/09/2019,Expansion,Full time
+2797,35416,25416,Copenhagen,Denmark,Female,11/10/2019,Expansion,Full time
+2798,71000,61000,Berlin,Germany,Female,11/03/2020,Expansion,Full time
+2799,87000,77000,Berlin,Germany,Male,11/12/2019,Expansion,Full time
+2800,115000,105000,Berlin,Germany,Male,25/01/2020,Expansion,Full time
+2801,28800,18800,Berlin,Germany,Male,11/02/2020,Expansion,Full time
+2802,34200,24200,Berlin,Germany,Female,11/02/2020,Expansion,Full time
+2803,90950,80950,Berlin,Germany,Female,11/04/2020,Expansion,Full time
+2804,32300,22300,Berlin,Germany,Female,11/03/2020,Expansion,Full time
+2805,46895,36895,Copenhagen,Denmark,Female,11/04/2020,Expansion,Full time
+2806,46000,36000,Copenhagen,Denmark,Male,12/03/2020,Expansion,Full time
+2807,80000,70000,Berlin,Germany,Male,01/08/2015,Expansion,Full time
+2808,172000,162000,Amsterdam,Netherlands,Male,18/06/2020,Expansion,Full time
+2810,56000,46000,Copenhagen,Denmark,Male,19/07/2020,Expansion,Full time
+2811,112500,102500,Berlin,Germany,Male,11/07/2020,Expansion,Full time
+2812,23000,13000,Warsaw,Poland,Male,11/07/2020,Expansion,Full time
+2813,180000,170000,Berlin,Germany,Male,13/08/2020,Expansion,Full time
+2814,62000,52000,Copenhagen,Denmark,Male,11/09/2020,Expansion,Full time
+2815,36000,26000,Berlin,Germany,Male,25/09/2020,Expansion,Full time
+2816,100000,90000,Berlin,Germany,Male,11/10/2020,Expansion,Full time
+2817,80000,70000,London,United Kingdom,Male,11/12/2020,Expansion,Full time
+2818,90000,80000,Berlin,Germany,Female,11/01/2015,Expansion,Full time
+2819,48000,38000,Berlin,Germany,Female,11/02/2018,Expansion,Full time
+2820,37671,27671,Berlin,Germany,Male,11/03/2020,Expansion,Full time
+2821,120000,110000,Berlin,Germany,Male,11/12/2020,Expansion,Full time
+2823,98000,88000,Berlin,Germany,Male,24/09/2015,Expansion,Full time
+2824,127000,117000,Berlin,Germany,Male,25/01/2021,Expansion,Full time
+2825,100000,90000,Amsterdam,Netherlands,Female,11/01/2021,Expansion,Full time
+2826,68000,58000,Copenhagen,Denmark,Male,14/01/2021,Expansion,Part time
+2827,60900,50900,Berlin,Germany,Female,11/01/2021,Expansion,Full time
+2828,56700,46700,Berlin,Germany,Male,11/01/2021,Expansion,Full time
+2829,72000,62000,Berlin,Germany,Female,25/01/2021,Expansion,Full time
+2830,30000,20000,Berlin,Germany,Male,11/02/2021,Expansion,Full time
+2831,80000,70000,Berlin,Germany,Female,25/04/2021,Expansion,Full time
+2832,75000,65000,Berlin,Germany,Female,11/02/2021,Expansion,Full time
+2833,56000,46000,Berlin,Germany,Female,11/02/2021,Expansion,Full time
+2834,175000,165000,Berlin,Germany,Male,25/02/2021,Expansion,Full time
+2835,40000,30000,Berlin,Germany,Male,25/02/2021,Expansion,Full time
+2836,88000,78000,Berlin,Germany,Female,11/03/2021,Expansion,Full time
+2837,67000,57000,Berlin,Germany,Female,11/03/2021,Expansion,Full time
+2838,45000,35000,Copenhagen,Denmark,Male,11/03/2021,Expansion,Full time
+2839,65000,55000,Copenhagen,Denmark,Male,11/03/2021,Expansion,Full time
+2840,56710,46710,Berlin,Germany,Male,25/03/2021,Expansion,Full time
+2841,80000,70000,Berlin,Germany,Female,11/04/2021,Expansion,Full time
+2842,24500,14500,Berlin,Germany,Female,11/04/2021,Expansion,Full time
+2843,28500,18500,Berlin,Germany,Female,11/04/2021,Expansion,Full time
+2844,28200,18200,Berlin,Germany,Female,11/11/2021,Expansion,Full time
+2845,44000,34000,Copenhagen,Denmark,Female,11/04/2021,Expansion,Full time
+2846,44000,34000,Berlin,Germany,Female,28/10/2021,Expansion,Full time
+2847,51000,41000,Copenhagen,Denmark,Male,11/04/2021,Expansion,Full time
+2852,57999,47999,Paris,France,Female,11/04/2019,Expansion,Full time
+2897,75000,65000,Paris,France,Male,17/02/2022,Expansion,Full time
+2926,36000,26000,London,United Kingdom,Male,22/04/2021,Expansion,Full time
+2927,45000,35000,London,United Kingdom,Male,12/02/2017,Expansion,Full time
+2928,75500,65500,London,United Kingdom,Male,15/06/2017,Expansion,Full time
+2929,119697,109697,Lithuania,Lithuania,Male,13/01/2017,Expansion,Full time
+2930,41000,31000,London,United Kingdom,Male,04/03/2021,Expansion,Full time
+2931,26200,16200,London,United Kingdom,Male,17/01/2019,Expansion,Full time
+2932,54000,44000,London,United Kingdom,Female,11/07/2019,Expansion,Full time
+2933,38000,28000,London,United Kingdom,Male,15/06/2017,Expansion,Full time
+2934,45000,35000,London,United Kingdom,Male,01/03/2018,Expansion,Full time
+2935,45000,35000,London,United Kingdom,Male,14/06/2018,Expansion,Full time
+2936,32000,22000,London,United Kingdom,Female,15/01/2021,Expansion,Full time
+2937,32000,22000,London,United Kingdom,Female,29/04/2021,Expansion,Full time
+2938,35000,25000,London,United Kingdom,Male,14/09/2017,Expansion,Full time
+2939,45000,35000,London,United Kingdom,Male,16/11/2017,Expansion,Full time
+2940,36000,26000,London,United Kingdom,Male,28/04/2016,Expansion,Full time
+2941,50000,40000,Dublin,Ireland,Male,18/02/2021,Expansion,Full time
+2942,32000,22000,London,United Kingdom,Male,21/01/2021,Expansion,Full time
+2943,63000,53000,London,United Kingdom,Male,25/02/2021,Expansion,Full time
+2944,100000,90000,London,United Kingdom,Male,11/01/2017,Expansion,Full time
+2945,32000,22000,London,United Kingdom,Male,29/04/2021,Expansion,Full time
+2946,21000,11000,London,United Kingdom,Male,03/01/2021,Expansion,Full time
+2947,89000,79000,London,United Kingdom,Male,13/01/2017,Expansion,Full time
+2949,38160,28160,London,United Kingdom,Female,18/02/2021,Expansion,Part time
+2950,100000,90000,London,United Kingdom,Male,12/05/2018,Expansion,Full time
+2951,32000,22000,London,United Kingdom,Female,04/03/2021,Expansion,Full time
+2952,25200,15200,London,United Kingdom,Male,07/07/2019,Expansion,Full time
+2953,100000,90000,London,United Kingdom,Male,11/01/2016,Expansion,Full time
+2954,21000,11000,London,United Kingdom,Male,29/08/2019,Expansion,Full time
+2956,57000,47000,London,United Kingdom,Male,01/06/2017,Expansion,Full time
+2957,32000,22000,London,United Kingdom,Male,15/01/2021,Expansion,Full time
+2958,70000,60000,London,United Kingdom,Male,11/01/2017,Expansion,Full time
+2959,35000,25000,London,United Kingdom,Male,16/11/2017,Expansion,Full time
+2960,35000,25000,London,United Kingdom,Male,30/07/2020,Expansion,Full time
+2961,41500,31500,London,United Kingdom,Diverse,08/10/2020,Expansion,Full time
+2962,30000,20000,London,United Kingdom,Male,14/01/2021,Expansion,Full time
+2963,32000,22000,London,United Kingdom,Female,05/12/2019,Expansion,Full time
+2964,37000,27000,London,United Kingdom,Male,05/12/2019,Expansion,Full time
+2965,91667,81667,Copenhagen,Denmark,Male,11/05/2021,Expansion,Full time
+2967,160000,150000,Berlin,Germany,Female,06/05/2021,Expansion,Full time
+2968,77500,67500,Berlin,Germany,Female,25/05/2021,Expansion,Full time
+2969,42000,32000,Berlin,Germany,Male,11/05/2021,Expansion,Full time
+2970,88000,78000,Berlin,Germany,Male,11/05/2021,Expansion,Full time
+2971,160000,150000,London,United Kingdom,Male,01/04/2021,Expansion,Full time
+2972,85000,75000,Berlin,Germany,Male,11/05/2021,Expansion,Full time
+2973,85000,75000,Berlin,Germany,Male,11/06/2021,Expansion,Full time
+2974,95000,85000,Berlin,Germany,Male,11/06/2021,Expansion,Part time
+2975,26500,16500,Warsaw,Poland,Male,17/06/2021,Expansion,Full time
+2976,85000,75000,Berlin,Germany,Male,11/07/2021,Expansion,Full time
+2977,51000,41000,Copenhagen,Denmark,Male,11/07/2021,Expansion,Full time
+2978,105000,95000,Berlin,Germany,Male,11/07/2021,Expansion,Full time
+2979,25200,15200,London,United Kingdom,Male,03/07/2021,Expansion,Full time
+2980,80000,70000,Berlin,Germany,Female,25/07/2021,Expansion,Full time
+2983,35000,25000,Paris,France,Diverse,11/05/2021,Expansion,Full time
+2990,21999,11999,Paris,France,Diverse,24/06/2021,Expansion,Full time
+2999,27000,17000,Berlin,Germany,Diverse,11/08/2021,Expansion,Full time
+3000,60999,50999,Paris,France,Male,29/07/2021,Expansion,Full time
+3002,53000,43000,Paris,France,Male,29/07/2021,Expansion,Full time
+3003,70000,60000,Copenhagen,Denmark,Diverse,11/08/2021,Expansion,Full time
+3004,27000,17000,Berlin,Germany,Female,11/09/2021,Expansion,Full time
+3006,58000,48000,Copenhagen,Denmark,Male,16/09/2021,Expansion,Full time
+3007,90000,80000,Berlin,Germany,Male,11/10/2021,Expansion,Full time
+3008,115000,105000,Berlin,Germany,Male,25/08/2021,Expansion,Full time
+3009,105000,95000,Berlin,Germany,Male,25/09/2021,Expansion,Full time
+3014,28500,18500,Berlin,Germany,Male,11/09/2021,Expansion,Full time
+3015,36999,26999,Paris,France,Female,09/09/2021,Expansion,Full time
+3016,25000,15000,Barcelona,Spain,Female,09/09/2021,Expansion,Full time
+3018,27000,17000,Dublin,Ireland,Male,16/09/2021,Expansion,Full time
+3020,21284,11284,Milan,Italy,Diverse,09/09/2021,Expansion,Full time
+3022,21375,11375,Berlin,Germany,Female,30/09/2021,Expansion,Part time
+3025,160000,150000,London,United Kingdom,Diverse,03/10/2021,Expansion,Full time
+3026,30000,20000,London,United Kingdom,Female,14/10/2021,Expansion,Full time
+3027,25000,15000,London,United Kingdom,Male,14/10/2021,Expansion,Full time
+3028,27000,17000,Berlin,Germany,Male,11/10/2021,Expansion,Full time
+3030,42000,32000,Paris,France,Diverse,14/10/2021,Expansion,Full time
+3031,21999,11999,Paris,France,Diverse,14/10/2021,Expansion,Full time
+3032,21999,11999,Paris,France,Male,14/10/2021,Expansion,Full time
+3034,21284,11284,Paris,France,Male,14/10/2021,Expansion,Full time
+3035,21284,11284,Milan,Italy,Male,14/10/2021,Expansion,Full time
+3036,60000,50000,Paris,France,Male,14/10/2021,Expansion,Full time
+3041,60000,50000,Paris,France,Male,14/10/2021,Expansion,Full time
+3044,25000,15000,London,United Kingdom,Male,28/10/2021,Expansion,Full time
+3045,30000,20000,London,United Kingdom,Female,28/10/2021,Expansion,Full time
+3046,47000,37000,London,United Kingdom,Female,04/11/2021,Expansion,Full time
+3047,43500,33500,London,United Kingdom,Female,04/11/2021,Expansion,Full time
+3048,25000,15000,London,United Kingdom,Female,04/11/2021,Expansion,Full time
+3049,59000,49000,Paris,France,Male,12/11/2021,Expansion,Full time
+3050,21999,11999,Paris,France,Male,12/11/2021,Expansion,Full time
+3051,21999,11999,Paris,France,Diverse,12/11/2021,Expansion,Full time
+3056,70000,60000,London,United Kingdom,Female,25/11/2021,Expansion,Full time
+3057,27000,17000,Berlin,Germany,Male,25/11/2021,Expansion,Full time
+3058,43000,33000,Berlin,Germany,Male,11/12/2021,Expansion,Full time
+3059,21999,11999,Paris,France,Diverse,14/10/2021,Expansion,Full time
+3060,27000,17000,Berlin,Germany,Female,11/12/2021,Expansion,Full time
+3061,24497,14497,Paris,France,Diverse,02/12/2021,Expansion,Full time
+3062,65000,55000,Copenhagen,Denmark,Male,11/12/2021,Expansion,Full time
+3063,21000,11000,Berlin,Germany,Male,11/12/2021,Expansion,Full time
+3064,25200,15200,Berlin,Germany,Male,11/12/2021,Expansion,Full time
+3065,18243,8243,Milan,Italy,Male,09/12/2021,Expansion,Full time
+3066,21654,11654,Paris,France,Male,11/12/2021,Expansion,Full time
+3068,26000,16000,Paris,France,Male,11/12/2021,Expansion,Full time
+3069,18243,8243,Milan,Italy,Male,09/12/2021,Expansion,Full time
+3070,20571,10571,Milan,Italy,Female,09/12/2021,Expansion,Full time
+3071,18243,8243,Milan,Italy,Male,11/12/2021,Expansion,Full time
+3072,19073,9073,Paris,France,Female,11/12/2021,Expansion,Full time
+3074,21284,11284,Milan,Italy,Diverse,11/12/2021,Expansion,Full time
+3075,52000,42000,London,United Kingdom,Female,11/12/2021,Expansion,Part time
+3076,25000,15000,Barcelona,Spain,Male,11/12/2021,Expansion,Full time
+3077,175000,165000,Berlin,Germany,Male,11/01/2022,Expansion,Part time
+3078,85000,75000,Berlin,Germany,Male,25/01/2022,Expansion,Full time
+3080,35000,25000,Paris,France,Male,13/01/2022,Expansion,Full time
+3082,25000,15000,Barcelona,Spain,Diverse,14/01/2022,Expansion,Full time
+3083,25000,15000,Barcelona,Spain,Female,14/01/2022,Expansion,Full time
+3084,20000,10000,Barcelona,Spain,Diverse,13/01/2022,Expansion,Full time
+3096,21999,11999,Paris,France,Diverse,14/01/2022,Expansion,Full time
+3098,35000,25000,Paris,France,Female,14/01/2022,Expansion,Full time
+3100,22000,12000,London,United Kingdom,Male,20/01/2022,Expansion,Full time
+3101,22000,12000,London,United Kingdom,Male,20/01/2022,Expansion,Full time
+3102,24000,14000,London,United Kingdom,Female,20/01/2022,Expansion,Full time
+3103,24000,14000,London,United Kingdom,Diverse,20/01/2022,Expansion,Full time
+3111,32000,22000,Berlin,Germany,Female,11/02/2022,Expansion,Full time
+3112,39000,29000,Paris,France,Diverse,30/03/2022,Expansion,Full time
+3119,24500,14500,Berlin,Germany,Male,11/02/2022,Expansion,Part time
+3120,60000,50000,Copenhagen,Denmark,Male,11/02/2022,Expansion,Full time
+3121,57000,47000,Copenhagen,Denmark,Male,11/01/2022,Expansion,Full time
+3122,125000,115000,Berlin,Germany,Female,25/02/2022,Expansion,Full time
+3123,21284,11284,Milan,Italy,Male,11/02/2022,Expansion,Full time
+3124,71000,61000,Paris,France,Male,20/02/2022,Expansion,Full time
+3125,72000,62000,Berlin,Germany,Female,25/03/2022,Expansion,Full time
+3126,63000,53000,Berlin,Germany,Male,11/03/2022,Expansion,Full time
+3128,30000,20000,Berlin,Germany,Female,11/03/2022,Expansion,Full time
+3129,18323,8323,Paris,France,Diverse,11/03/2022,Expansion,Full time
+3131,52833,42833,Copenhagen,Denmark,Male,11/03/2022,Expansion,Full time
+3132,56000,46000,Barcelona,Spain,Diverse,11/03/2022,Expansion,Full time
+3133,25000,15000,Barcelona,Spain,Diverse,11/03/2022,Expansion,Full time
+3135,23320,13320,Milan,Italy,Diverse,24/03/2022,Expansion,Full time
+3178,95000,85000,Berlin,Germany,Female,11/02/2021,Expansion,Full time
+3179,100000,90000,Berlin,Germany,Male,11/12/2021,Expansion,Full time
