@@ -4,11 +4,11 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 import streamlit as st
-import warnings
+#import warnings
 
 # workaround to suppress warnings from plotly and pandas
 # FIXME: fix the issues and remove this workaround
-warnings.filterwarnings("ignore")
+#warnings.filterwarnings("ignore")
 
 pio.templates.default = "simple_white"
 st.set_page_config(page_title="HR Dashboard",
